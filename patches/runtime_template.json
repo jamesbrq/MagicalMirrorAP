@@ -1,0 +1,1600 @@
+{
+  "patch_layout": "static-doors-v1",
+  "recipe": {
+    "locations": [
+      {
+        "bases": [
+          6,
+          50
+        ],
+        "extra": [
+          "0x1bed"
+        ],
+        "items": [
+          "key",
+          "shard",
+          "ap"
+        ],
+        "name": "area026_vessel",
+        "offsets": [
+          "0x31fd",
+          "0x321d",
+          "0x1c54"
+        ],
+        "rel": "area026",
+        "location": 79800116
+      }
+    ]
+  },
+  "runtime_abi": 3,
+  "runtime_build_stamp": "0xF6B9E7F5",
+  "trick_cost_writes": {
+    "trick_01": [
+      [
+        "files/mickey/area00/area000.rel",
+        5482,
+        0
+      ]
+    ],
+    "trick_02": [
+      [
+        "files/mickey/area02/area002.rel",
+        6244,
+        0
+      ]
+    ],
+    "trick_03": [
+      [
+        "files/mickey/area02/area002.rel",
+        7663,
+        0
+      ]
+    ],
+    "trick_04": [
+      [
+        "files/mickey/area03/area003.rel",
+        11862,
+        0
+      ]
+    ],
+    "trick_05": [
+      [
+        "files/mickey/area03/area003.rel",
+        12180,
+        0
+      ]
+    ],
+    "trick_07": [
+      [
+        "files/mickey/area05/area005.rel",
+        16568,
+        0
+      ],
+      [
+        "files/mickey/area05/area005.rel",
+        16576,
+        0
+      ]
+    ],
+    "trick_08": [
+      [
+        "files/mickey/area05/area005.rel",
+        17378,
+        0
+      ]
+    ],
+    "trick_09": [
+      [
+        "files/mickey/area06/area006.rel",
+        16087,
+        0
+      ]
+    ],
+    "trick_10": [
+      [
+        "files/mickey/area06/area006.rel",
+        17123,
+        0
+      ]
+    ],
+    "trick_11": [
+      [
+        "files/mickey/area07/area007.rel",
+        4852,
+        0
+      ]
+    ],
+    "trick_12": [
+      [
+        "files/mickey/area09/area009.rel",
+        7780,
+        0
+      ]
+    ],
+    "trick_13": [
+      [
+        "files/mickey/area09/area009.rel",
+        8130,
+        0
+      ],
+      [
+        "files/mickey/area09/area009.rel",
+        8138,
+        0
+      ]
+    ],
+    "trick_14": [
+      [
+        "files/mickey/area09/area009.rel",
+        8816,
+        0
+      ],
+      [
+        "files/mickey/area09/area009.rel",
+        8824,
+        0
+      ]
+    ],
+    "trick_15": [
+      [
+        "files/mickey/area11/area011.rel",
+        14182,
+        0
+      ]
+    ],
+    "trick_16": [
+      [
+        "files/mickey/area14/area014.rel",
+        12983,
+        0
+      ]
+    ],
+    "trick_17": [
+      [
+        "files/mickey/area15/area015.rel",
+        9791,
+        0
+      ]
+    ],
+    "trick_18": [
+      [
+        "files/mickey/area15/area015.rel",
+        9854,
+        0
+      ],
+      [
+        "files/mickey/area15/area015.rel",
+        9864,
+        0
+      ]
+    ],
+    "trick_19": [
+      [
+        "files/mickey/area20/area020.rel",
+        9831,
+        0
+      ]
+    ],
+    "trick_20": [
+      [
+        "files/mickey/area20/area020.rel",
+        12088,
+        0
+      ]
+    ],
+    "trick_21": [
+      [
+        "files/mickey/area23/area023.rel",
+        2431,
+        0
+      ],
+      [
+        "files/mickey/area23/area023.rel",
+        2439,
+        0
+      ]
+    ],
+    "trick_22": [
+      [
+        "files/mickey/area24/area024.rel",
+        7567,
+        0
+      ]
+    ],
+    "trick_23": [
+      [
+        "files/mickey/area24/area024.rel",
+        8584,
+        0
+      ]
+    ],
+    "trick_24": [
+      [
+        "files/mickey/area26/area026.rel",
+        10532,
+        0
+      ]
+    ],
+    "trick_25": [
+      [
+        "files/mickey/area29/area029.rel",
+        20731,
+        0
+      ]
+    ],
+    "trick_26": [
+      [
+        "files/mickey/area32/area032.rel",
+        6889,
+        0
+      ]
+    ],
+    "trick_27": [
+      [
+        "files/mickey/area33/area033.rel",
+        10677,
+        0
+      ],
+      [
+        "files/mickey/area33/area033.rel",
+        10685,
+        0
+      ]
+    ],
+    "trick_28": [
+      [
+        "files/mickey/area33/area033.rel",
+        12750,
+        0
+      ]
+    ],
+    "trick_29": [
+      [
+        "files/mickey/area39/area039.rel",
+        8520,
+        0
+      ],
+      [
+        "files/mickey/area39/area039.rel",
+        8530,
+        0
+      ],
+      [
+        "files/mickey/area39/area039.rel",
+        8540,
+        0
+      ]
+    ],
+    "trick_30": [
+      [
+        "files/mickey/area39/area039.rel",
+        9038,
+        0
+      ],
+      [
+        "files/mickey/area39/area039.rel",
+        9048,
+        0
+      ]
+    ],
+    "trick_31": [
+      [
+        "files/mickey/area41/area041.rel",
+        4362,
+        0
+      ]
+    ],
+    "trick_32": [
+      [
+        "files/mickey/area42/area042.rel",
+        9241,
+        0
+      ]
+    ],
+    "trick_33": [
+      [
+        "files/mickey/area45/area045.rel",
+        34874,
+        0
+      ]
+    ],
+    "trick_34": [
+      [
+        "files/mickey/area46/area046.rel",
+        13597,
+        0
+      ]
+    ],
+    "trick_35": [
+      [
+        "files/mickey/area00/area000.rel",
+        1515,
+        0
+      ]
+    ],
+    "trick_36": [
+      [
+        "files/mickey/area03/area003.rel",
+        7295,
+        0
+      ]
+    ],
+    "trick_37": [
+      [
+        "files/mickey/area05/area005.rel",
+        12099,
+        0
+      ],
+      [
+        "files/mickey/area05/area005.rel",
+        12135,
+        0
+      ],
+      [
+        "files/mickey/area05/area005.rel",
+        12175,
+        0
+      ],
+      [
+        "files/mickey/area05/area005.rel",
+        12211,
+        0
+      ]
+    ],
+    "trick_38": [
+      [
+        "files/mickey/area29/area029.rel",
+        5395,
+        0
+      ]
+    ]
+  },
+  "shard_threshold_writes": [
+    [
+      "files/mickey/area12/area012.rel",
+      762,
+      8
+    ],
+    [
+      "files/mickey/area12/area012.rel",
+      790,
+      12
+    ],
+    [
+      "files/mickey/area12/area012.rel",
+      792,
+      "branch",
+      1098907664
+    ],
+    [
+      "files/mickey/area09/area009.rel",
+      2214,
+      12
+    ],
+    [
+      "files/mickey/area09/area009.rel",
+      2216,
+      "branch",
+      1098907692
+    ],
+    [
+      "files/mickey/area08/area008.rel",
+      422,
+      12
+    ],
+    [
+      "files/mickey/area08/area008.rel",
+      424,
+      "branch",
+      1082130448
+    ],
+    [
+      "files/mickey/area08/area008.rel",
+      4086,
+      12
+    ],
+    [
+      "files/mickey/area08/area008.rel",
+      4088,
+      "branch",
+      1082130452
+    ]
+  ],
+  "pickup_models": {
+    "models": {
+      "key": {
+        "source": [
+          "files/mickey/area00/sobj000.bin",
+          105824,
+          7232
+        ],
+        "patch": "patches/models/key.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/key.tpl.bsdiff"
+        ]
+      },
+      "shard": {
+        "source": [
+          "files/mickey/area00/sobj000.bin",
+          144864,
+          1280
+        ],
+        "patch": "patches/models/shard.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/shard.tpl.bsdiff"
+        ]
+      },
+      "vessel": {
+        "source": [
+          "files/mickey/area26/sobj026.bin",
+          72768,
+          6976
+        ],
+        "patch": "patches/models/vessel.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/vessel.tpl.bsdiff"
+        ]
+      },
+      "inventory_05": {
+        "source": [
+          "files/mickey/item/item.bin",
+          64416,
+          2304
+        ],
+        "patch": "patches/models/inventory_05.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/inventory_05.tpl.bsdiff"
+        ]
+      },
+      "inventory_06": {
+        "source": [
+          "files/mickey/item/item.bin",
+          9760,
+          15232
+        ],
+        "patch": "patches/models/inventory_06.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/inventory_06.tpl.bsdiff"
+        ]
+      },
+      "inventory_07": {
+        "source": [
+          "files/mickey/item/item.bin",
+          128,
+          4544
+        ],
+        "patch": "patches/models/inventory_07.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/inventory_07.tpl.bsdiff"
+        ]
+      },
+      "inventory_08": {
+        "source": [
+          "files/mickey/item/item.bin",
+          86208,
+          2368
+        ],
+        "patch": "patches/models/inventory_08.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/inventory_08.tpl.bsdiff"
+        ]
+      },
+      "inventory_09": {
+        "source": [
+          "files/mickey/item/item.bin",
+          93248,
+          10944
+        ],
+        "patch": "patches/models/inventory_09.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/inventory_09.tpl.bsdiff"
+        ]
+      },
+      "inventory_0a": {
+        "source": [
+          "files/mickey/item/item.bin",
+          112448,
+          10656
+        ],
+        "patch": "patches/models/inventory_0a.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/inventory_0a.tpl.bsdiff"
+        ]
+      },
+      "inventory_0b": {
+        "source": [
+          "files/mickey/item/item.bin",
+          131360,
+          13184
+        ],
+        "patch": "patches/models/inventory_0b.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/inventory_0b.tpl.bsdiff"
+        ]
+      },
+      "inventory_0c": {
+        "source": [
+          "files/mickey/item/item.bin",
+          152800,
+          4288
+        ],
+        "patch": "patches/models/inventory_0c.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/inventory_0c.tpl.bsdiff"
+        ]
+      },
+      "inventory_0e": {
+        "source": [
+          "files/mickey/item/item.bin",
+          177952,
+          32224
+        ],
+        "patch": "patches/models/inventory_0e.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/inventory_0e.tpl.bsdiff"
+        ]
+      },
+      "ap": {
+        "source": [
+          "files/mickey/area00/sobj000.bin",
+          144864,
+          1280
+        ],
+        "patch": "patches/models/ap.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/ap.tpl.bsdiff"
+        ]
+      },
+      "refill": {
+        "source": [
+          "files/mickey/area00/sobj000.bin",
+          144864,
+          1280
+        ],
+        "patch": "patches/models/refill.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/refill.tpl.bsdiff"
+        ]
+      },
+      "trick": {
+        "source": [
+          "files/mickey/area00/sobj000.bin",
+          144864,
+          1280
+        ],
+        "patch": "patches/models/trick.bsdiff",
+        "texture": [
+          "files/mickey/area15/mport.tpl",
+          "patches/models/souvenirs/refill.tpl.bsdiff"
+        ]
+      }
+    },
+    "textures": {
+      "0": {
+        "key": 12,
+        "shard": 18,
+        "vessel": 19,
+        "inventory_05": 20,
+        "inventory_06": 21,
+        "inventory_07": 22,
+        "inventory_08": 23,
+        "inventory_09": 24,
+        "inventory_0a": 25,
+        "inventory_0b": 26,
+        "inventory_0c": 27,
+        "inventory_0e": 28,
+        "ap": 29,
+        "refill": 30,
+        "trick": 30
+      },
+      "1": {
+        "key": 31,
+        "shard": 36,
+        "vessel": 35,
+        "inventory_05": 37,
+        "inventory_06": 38,
+        "inventory_07": 39,
+        "inventory_08": 40,
+        "inventory_09": 41,
+        "inventory_0a": 42,
+        "inventory_0b": 43,
+        "inventory_0c": 44,
+        "inventory_0e": 45,
+        "ap": 46,
+        "refill": 47,
+        "trick": 47
+      },
+      "2": {
+        "key": 31,
+        "shard": 36,
+        "vessel": 39,
+        "inventory_05": 40,
+        "inventory_06": 41,
+        "inventory_07": 42,
+        "inventory_08": 34,
+        "inventory_09": 43,
+        "inventory_0a": 44,
+        "inventory_0b": 38,
+        "inventory_0c": 45,
+        "inventory_0e": 46,
+        "ap": 47,
+        "refill": 48,
+        "trick": 48
+      },
+      "3": {
+        "key": 17,
+        "shard": 20,
+        "vessel": 24,
+        "inventory_05": 25,
+        "inventory_06": 26,
+        "inventory_07": 27,
+        "inventory_08": 23,
+        "inventory_09": 28,
+        "inventory_0a": 29,
+        "inventory_0b": 30,
+        "inventory_0c": 31,
+        "inventory_0e": 32,
+        "ap": 33,
+        "refill": 34,
+        "trick": 34
+      },
+      "5": {
+        "key": 21,
+        "shard": 15,
+        "vessel": 22,
+        "inventory_05": 23,
+        "inventory_06": 24,
+        "inventory_07": 25,
+        "inventory_08": 20,
+        "inventory_09": 26,
+        "inventory_0a": 27,
+        "inventory_0b": 28,
+        "inventory_0c": 29,
+        "inventory_0e": 30,
+        "ap": 31,
+        "refill": 32,
+        "trick": 32
+      },
+      "9": {
+        "key": 30,
+        "shard": 31,
+        "vessel": 32,
+        "inventory_05": 34,
+        "inventory_06": 35,
+        "inventory_07": 21,
+        "inventory_08": 36,
+        "inventory_09": 37,
+        "inventory_0a": 38,
+        "inventory_0b": 39,
+        "inventory_0c": 40,
+        "inventory_0e": 41,
+        "ap": 42,
+        "refill": 43,
+        "trick": 43
+      },
+      "10": {
+        "key": 26,
+        "shard": 27,
+        "vessel": 24,
+        "inventory_05": 28,
+        "inventory_06": 29,
+        "inventory_07": 30,
+        "inventory_08": 31,
+        "inventory_09": 32,
+        "inventory_0a": 33,
+        "inventory_0b": 34,
+        "inventory_0c": 25,
+        "inventory_0e": 35,
+        "ap": 36,
+        "refill": 37,
+        "trick": 37
+      },
+      "11": {
+        "key": 24,
+        "shard": 18,
+        "vessel": 21,
+        "inventory_05": 25,
+        "inventory_06": 26,
+        "inventory_07": 27,
+        "inventory_08": 28,
+        "inventory_09": 29,
+        "inventory_0a": 22,
+        "inventory_0b": 30,
+        "inventory_0c": 31,
+        "inventory_0e": 32,
+        "ap": 33,
+        "refill": 34,
+        "trick": 34
+      },
+      "13": {
+        "key": 13,
+        "shard": 14,
+        "vessel": 12,
+        "inventory_05": 15,
+        "inventory_06": 16,
+        "inventory_07": 17,
+        "inventory_08": 18,
+        "inventory_09": 19,
+        "inventory_0a": 20,
+        "inventory_0b": 21,
+        "inventory_0c": 22,
+        "inventory_0e": 23,
+        "ap": 24,
+        "refill": 25,
+        "trick": 25
+      },
+      "14": {
+        "key": 21,
+        "shard": 22,
+        "vessel": 20,
+        "inventory_05": 23,
+        "inventory_06": 24,
+        "inventory_07": 25,
+        "inventory_08": 26,
+        "inventory_09": 27,
+        "inventory_0a": 28,
+        "inventory_0b": 29,
+        "inventory_0c": 30,
+        "inventory_0e": 31,
+        "ap": 32,
+        "refill": 33,
+        "trick": 33
+      },
+      "15": {
+        "key": 33,
+        "shard": 34,
+        "vessel": 32,
+        "inventory_05": 35,
+        "inventory_06": 36,
+        "inventory_07": 37,
+        "inventory_08": 38,
+        "inventory_09": 39,
+        "inventory_0a": 40,
+        "inventory_0b": 41,
+        "inventory_0c": 42,
+        "inventory_0e": 43,
+        "ap": 44,
+        "refill": 45,
+        "trick": 45
+      },
+      "17": {
+        "key": 14,
+        "shard": 15,
+        "vessel": 13,
+        "inventory_05": 16,
+        "inventory_06": 17,
+        "inventory_07": 18,
+        "inventory_08": 19,
+        "inventory_09": 20,
+        "inventory_0a": 21,
+        "inventory_0b": 22,
+        "inventory_0c": 23,
+        "inventory_0e": 24,
+        "ap": 25,
+        "refill": 26,
+        "trick": 26
+      },
+      "18": {
+        "key": 20,
+        "shard": 19,
+        "vessel": 21,
+        "inventory_05": 17,
+        "inventory_06": 22,
+        "inventory_07": 23,
+        "inventory_08": 24,
+        "inventory_09": 25,
+        "inventory_0a": 26,
+        "inventory_0b": 27,
+        "inventory_0c": 28,
+        "inventory_0e": 29,
+        "ap": 30,
+        "refill": 31,
+        "trick": 31
+      },
+      "19": {
+        "key": 17,
+        "shard": 11,
+        "vessel": 13,
+        "inventory_05": 18,
+        "inventory_06": 15,
+        "inventory_07": 19,
+        "inventory_08": 20,
+        "inventory_09": 21,
+        "inventory_0a": 22,
+        "inventory_0b": 23,
+        "inventory_0c": 24,
+        "inventory_0e": 25,
+        "ap": 26,
+        "refill": 27,
+        "trick": 27
+      },
+      "20": {
+        "key": 15,
+        "shard": 14,
+        "vessel": 16,
+        "inventory_05": 17,
+        "inventory_06": 18,
+        "inventory_07": 19,
+        "inventory_08": 20,
+        "inventory_09": 21,
+        "inventory_0a": 22,
+        "inventory_0b": 23,
+        "inventory_0c": 24,
+        "inventory_0e": 25,
+        "ap": 26,
+        "refill": 27,
+        "trick": 27
+      },
+      "22": {
+        "key": 10,
+        "shard": 18,
+        "vessel": 19,
+        "inventory_05": 20,
+        "inventory_06": 21,
+        "inventory_07": 22,
+        "inventory_08": 23,
+        "inventory_09": 24,
+        "inventory_0a": 25,
+        "inventory_0b": 26,
+        "inventory_0c": 27,
+        "inventory_0e": 28,
+        "ap": 29,
+        "refill": 30,
+        "trick": 30
+      },
+      "23": {
+        "key": 14,
+        "shard": 11,
+        "vessel": 15,
+        "inventory_05": 16,
+        "inventory_06": 17,
+        "inventory_07": 18,
+        "inventory_08": 19,
+        "inventory_09": 20,
+        "inventory_0a": 21,
+        "inventory_0b": 22,
+        "inventory_0c": 23,
+        "inventory_0e": 24,
+        "ap": 25,
+        "refill": 26,
+        "trick": 26
+      },
+      "24": {
+        "key": 15,
+        "shard": 16,
+        "vessel": 14,
+        "inventory_05": 17,
+        "inventory_06": 18,
+        "inventory_07": 19,
+        "inventory_08": 20,
+        "inventory_09": 21,
+        "inventory_0a": 22,
+        "inventory_0b": 23,
+        "inventory_0c": 24,
+        "inventory_0e": 25,
+        "ap": 26,
+        "refill": 27,
+        "trick": 27
+      },
+      "25": {
+        "key": 13,
+        "shard": 14,
+        "vessel": 12,
+        "inventory_05": 15,
+        "inventory_06": 16,
+        "inventory_07": 17,
+        "inventory_08": 10,
+        "inventory_09": 11,
+        "inventory_0a": 18,
+        "inventory_0b": 19,
+        "inventory_0c": 20,
+        "inventory_0e": 21,
+        "ap": 22,
+        "refill": 23,
+        "trick": 23
+      },
+      "26": {
+        "key": 7,
+        "shard": 10,
+        "vessel": 8,
+        "inventory_05": 12,
+        "inventory_06": 13,
+        "inventory_07": 14,
+        "inventory_08": 15,
+        "inventory_09": 16,
+        "inventory_0a": 17,
+        "inventory_0b": 18,
+        "inventory_0c": 19,
+        "inventory_0e": 20,
+        "ap": 11,
+        "refill": 21,
+        "trick": 21
+      },
+      "29": {
+        "key": 28,
+        "shard": 29,
+        "vessel": 30,
+        "inventory_05": 31,
+        "inventory_06": 32,
+        "inventory_07": 33,
+        "inventory_08": 34,
+        "inventory_09": 35,
+        "inventory_0a": 36,
+        "inventory_0b": 37,
+        "inventory_0c": 38,
+        "inventory_0e": 39,
+        "ap": 40,
+        "refill": 41,
+        "trick": 41
+      },
+      "31": {
+        "key": 13,
+        "shard": 11,
+        "vessel": 14,
+        "inventory_05": 15,
+        "inventory_06": 16,
+        "inventory_07": 17,
+        "inventory_08": 18,
+        "inventory_09": 19,
+        "inventory_0a": 20,
+        "inventory_0b": 21,
+        "inventory_0c": 22,
+        "inventory_0e": 23,
+        "ap": 24,
+        "refill": 25,
+        "trick": 25
+      },
+      "32": {
+        "key": 32,
+        "shard": 30,
+        "vessel": 33,
+        "inventory_05": 34,
+        "inventory_06": 35,
+        "inventory_07": 36,
+        "inventory_08": 37,
+        "inventory_09": 28,
+        "inventory_0a": 38,
+        "inventory_0b": 39,
+        "inventory_0c": 40,
+        "inventory_0e": 41,
+        "ap": 42,
+        "refill": 43,
+        "trick": 43
+      },
+      "33": {
+        "key": 25,
+        "shard": 27,
+        "vessel": 19,
+        "inventory_05": 28,
+        "inventory_06": 29,
+        "inventory_07": 30,
+        "inventory_08": 31,
+        "inventory_09": 32,
+        "inventory_0a": 33,
+        "inventory_0b": 34,
+        "inventory_0c": 35,
+        "inventory_0e": 36,
+        "ap": 37,
+        "refill": 38,
+        "trick": 38
+      },
+      "35": {
+        "key": 17,
+        "shard": 15,
+        "vessel": 16,
+        "inventory_05": 18,
+        "inventory_06": 19,
+        "inventory_07": 20,
+        "inventory_08": 21,
+        "inventory_09": 22,
+        "inventory_0a": 23,
+        "inventory_0b": 24,
+        "inventory_0c": 25,
+        "inventory_0e": 26,
+        "ap": 27,
+        "refill": 28,
+        "trick": 28
+      },
+      "37": {
+        "key": 12,
+        "shard": 13,
+        "vessel": 14,
+        "inventory_05": 15,
+        "inventory_06": 11,
+        "inventory_07": 16,
+        "inventory_08": 17,
+        "inventory_09": 18,
+        "inventory_0a": 19,
+        "inventory_0b": 20,
+        "inventory_0c": 21,
+        "inventory_0e": 22,
+        "ap": 23,
+        "refill": 24,
+        "trick": 24
+      },
+      "39": {
+        "key": 31,
+        "shard": 32,
+        "vessel": 29,
+        "inventory_05": 33,
+        "inventory_06": 34,
+        "inventory_07": 35,
+        "inventory_08": 36,
+        "inventory_09": 37,
+        "inventory_0a": 38,
+        "inventory_0b": 39,
+        "inventory_0c": 40,
+        "inventory_0e": 41,
+        "ap": 42,
+        "refill": 43,
+        "trick": 43
+      },
+      "40": {
+        "key": 22,
+        "shard": 23,
+        "vessel": 21,
+        "inventory_05": 24,
+        "inventory_06": 25,
+        "inventory_07": 26,
+        "inventory_08": 27,
+        "inventory_09": 28,
+        "inventory_0a": 29,
+        "inventory_0b": 30,
+        "inventory_0c": 31,
+        "inventory_0e": 32,
+        "ap": 33,
+        "refill": 34,
+        "trick": 34
+      },
+      "42": {
+        "key": 20,
+        "shard": 19,
+        "vessel": 18,
+        "inventory_05": 21,
+        "inventory_06": 22,
+        "inventory_07": 23,
+        "inventory_08": 24,
+        "inventory_09": 25,
+        "inventory_0a": 26,
+        "inventory_0b": 27,
+        "inventory_0c": 28,
+        "inventory_0e": 29,
+        "ap": 30,
+        "refill": 31,
+        "trick": 31
+      },
+      "45": {
+        "key": 12,
+        "shard": 13,
+        "vessel": 8,
+        "inventory_05": 14,
+        "inventory_06": 10,
+        "inventory_07": 15,
+        "inventory_08": 16,
+        "inventory_09": 17,
+        "inventory_0a": 18,
+        "inventory_0b": 19,
+        "inventory_0c": 20,
+        "inventory_0e": 21,
+        "ap": 22,
+        "refill": 23,
+        "trick": 23
+      },
+      "46": {
+        "key": 15,
+        "shard": 17,
+        "vessel": 18,
+        "inventory_05": 19,
+        "inventory_06": 20,
+        "inventory_07": 21,
+        "inventory_08": 22,
+        "inventory_09": 23,
+        "inventory_0a": 14,
+        "inventory_0b": 24,
+        "inventory_0c": 25,
+        "inventory_0e": 26,
+        "ap": 27,
+        "refill": 28,
+        "trick": 28
+      }
+    },
+    "locations": {
+      "79800000": {
+        "area": 0,
+        "slots": [
+          10,
+          11
+        ]
+      },
+      "79800001": {
+        "area": 0,
+        "slots": [
+          1,
+          5
+        ]
+      },
+      "79800011": {
+        "area": 1,
+        "slots": [
+          10
+        ]
+      },
+      "79800012": {
+        "area": 2,
+        "slots": [
+          16
+        ]
+      },
+      "79800013": {
+        "area": 2,
+        "slots": [
+          5,
+          14
+        ]
+      },
+      "79800017": {
+        "area": 3,
+        "slots": [
+          15
+        ]
+      },
+      "79800018": {
+        "area": 3,
+        "slots": [
+          4,
+          14
+        ]
+      },
+      "79800029": {
+        "area": 5,
+        "slots": [
+          23
+        ]
+      },
+      "79800031": {
+        "area": 5,
+        "slots": [
+          1,
+          10
+        ]
+      },
+      "79800041": {
+        "area": 9,
+        "slots": [
+          16,
+          17
+        ]
+      },
+      "79800042": {
+        "area": 9,
+        "slots": [
+          4
+        ]
+      },
+      "79800043": {
+        "area": 9,
+        "slots": [
+          18
+        ]
+      },
+      "79800047": {
+        "area": 10,
+        "slots": [
+          15
+        ]
+      },
+      "79800052": {
+        "area": 11,
+        "slots": [
+          7,
+          8
+        ]
+      },
+      "79800056": {
+        "area": 13,
+        "slots": [
+          10
+        ]
+      },
+      "79800057": {
+        "area": 14,
+        "slots": [
+          17
+        ]
+      },
+      "79800060": {
+        "area": 15,
+        "slots": [
+          16
+        ]
+      },
+      "79800071": {
+        "area": 17,
+        "slots": [
+          11
+        ]
+      },
+      "79800077": {
+        "area": 18,
+        "slots": [
+          16,
+          17
+        ]
+      },
+      "79800079": {
+        "area": 18,
+        "slots": [
+          4
+        ]
+      },
+      "79800080": {
+        "area": 19,
+        "slots": [
+          10
+        ]
+      },
+      "79800081": {
+        "area": 19,
+        "slots": [
+          11
+        ]
+      },
+      "79800082": {
+        "area": 20,
+        "slots": [
+          8,
+          9
+        ]
+      },
+      "79800092": {
+        "area": 22,
+        "slots": [
+          2,
+          12
+        ]
+      },
+      "79800099": {
+        "area": 23,
+        "slots": [
+          8,
+          9
+        ]
+      },
+      "79800107": {
+        "area": 24,
+        "slots": [
+          3
+        ]
+      },
+      "79800111": {
+        "area": 25,
+        "slots": [
+          4,
+          5
+        ]
+      },
+      "79800112": {
+        "area": 25,
+        "slots": [
+          7
+        ]
+      },
+      "79800113": {
+        "area": 25,
+        "slots": [
+          8,
+          9
+        ]
+      },
+      "79800115": {
+        "area": 26,
+        "slots": [
+          12,
+          3
+        ]
+      },
+      "79800116": {
+        "area": 26,
+        "slots": [
+          10,
+          11
+        ]
+      },
+      "79800124": {
+        "area": 29,
+        "slots": [
+          14,
+          15
+        ]
+      },
+      "79800127": {
+        "area": 31,
+        "slots": [
+          0,
+          1
+        ]
+      },
+      "79800128": {
+        "area": 32,
+        "slots": [
+          25,
+          26
+        ]
+      },
+      "79800130": {
+        "area": 33,
+        "slots": [
+          11,
+          12
+        ]
+      },
+      "79800131": {
+        "area": 33,
+        "slots": [
+          10
+        ]
+      },
+      "79800136": {
+        "area": 35,
+        "slots": [
+          1
+        ]
+      },
+      "79800137": {
+        "area": 35,
+        "slots": [
+          2
+        ]
+      },
+      "79800139": {
+        "area": 37,
+        "slots": [
+          3
+        ]
+      },
+      "79800141": {
+        "area": 39,
+        "slots": [
+          7
+        ]
+      },
+      "79800144": {
+        "area": 40,
+        "slots": [
+          16
+        ]
+      },
+      "79800148": {
+        "area": 42,
+        "slots": [
+          29,
+          30
+        ]
+      },
+      "79800154": {
+        "area": 42,
+        "slots": [
+          28
+        ]
+      },
+      "79800158": {
+        "area": 45,
+        "slots": [
+          11
+        ],
+        "hide": [
+          12
+        ]
+      },
+      "79800161": {
+        "area": 46,
+        "slots": [
+          12
+        ]
+      },
+      "79800162": {
+        "area": 46,
+        "slots": [
+          13
+        ],
+        "hide": [
+          14
+        ]
+      },
+      "79800014": {
+        "area": 2,
+        "actor": "mcollar"
+      },
+      "79800030": {
+        "area": 5,
+        "actor": "mribbon"
+      },
+      "79800036": {
+        "area": 6,
+        "actor": "mpluto"
+      },
+      "79800051": {
+        "area": 10,
+        "actor": "mgoofy"
+      },
+      "79800058": {
+        "area": 14,
+        "actor": "mdona"
+      },
+      "79800061": {
+        "area": 15,
+        "actor": "mport"
+      },
+      "79800083": {
+        "area": 20,
+        "actor": "mplant"
+      },
+      "79800114": {
+        "area": 25,
+        "actor": "mpig"
+      },
+      "79800132": {
+        "area": 33,
+        "actor": "mwatch"
+      },
+      "79800133": {
+        "area": 33,
+        "actor": "mball"
+      },
+      "79800138": {
+        "area": 36,
+        "actor": "mcast2"
+      },
+      "79800140": {
+        "area": 37,
+        "actor": "mcast"
+      },
+      "79800145": {
+        "area": 40,
+        "actor": "mpict"
+      },
+      "79800146": {
+        "area": 41,
+        "actor": "mwind"
+      },
+      "79800159": {
+        "area": 45,
+        "actor": "mdack"
+      },
+      "79800211": {
+        "area": 0,
+        "actor": "hat02"
+      },
+      "79800212": {
+        "area": 0,
+        "actor": "hat01"
+      },
+      "79800213": {
+        "area": 0,
+        "actor": "hat00"
+      },
+      "79800214": {
+        "area": 3,
+        "actor": "hat01"
+      },
+      "79800215": {
+        "area": 3,
+        "actor": "hat00"
+      },
+      "79800216": {
+        "area": 3,
+        "actor": "hat02"
+      },
+      "79800217": {
+        "area": 16,
+        "actor": "hat00"
+      },
+      "79800218": {
+        "area": 16,
+        "actor": "hat01"
+      },
+      "79800219": {
+        "area": 16,
+        "actor": "hat02"
+      },
+      "79800220": {
+        "area": 17,
+        "actor": "hat01"
+      },
+      "79800221": {
+        "area": 17,
+        "actor": "hat00"
+      },
+      "79800222": {
+        "area": 17,
+        "actor": "hat02"
+      },
+      "79800223": {
+        "area": 21,
+        "actor": "hat01"
+      },
+      "79800224": {
+        "area": 21,
+        "actor": "hat00"
+      },
+      "79800225": {
+        "area": 21,
+        "actor": "hat02"
+      },
+      "79800226": {
+        "area": 22,
+        "actor": "hat00"
+      },
+      "79800227": {
+        "area": 22,
+        "actor": "hat01"
+      },
+      "79800228": {
+        "area": 22,
+        "actor": "hat02"
+      },
+      "79800229": {
+        "area": 42,
+        "actor": "hat01"
+      },
+      "79800230": {
+        "area": 42,
+        "actor": "hat02"
+      },
+      "79800231": {
+        "area": 42,
+        "actor": "hat00"
+      },
+      "79800232": {
+        "area": 46,
+        "actor": "hat00"
+      },
+      "79800233": {
+        "area": 46,
+        "actor": "hat01"
+      },
+      "79800234": {
+        "area": 46,
+        "actor": "hat02"
+      },
+      "79800235": {
+        "area": 23,
+        "actor": "hat02"
+      },
+      "79800236": {
+        "area": 23,
+        "actor": "hat01"
+      },
+      "79800237": {
+        "area": 23,
+        "actor": "hat00"
+      },
+      "79800238": {
+        "area": 28,
+        "actor": "hat01"
+      },
+      "79800239": {
+        "area": 28,
+        "actor": "hat02"
+      },
+      "79800240": {
+        "area": 28,
+        "actor": "hat00"
+      }
+    }
+  }
+}

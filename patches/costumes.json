@@ -1,0 +1,54 @@
+{
+  "costumes": {
+    "black_hooded_cloak": {
+      "files/mickey/area08/nmic008.bin": "patches/costumes/black_hooded_cloak/nmic008-models.bsdiff",
+      "files/mickey/area12/nmic012.bin": "patches/costumes/black_hooded_cloak/nmic008-models.bsdiff",
+      "files/mickey/area17/nmic017_0.bin": "patches/costumes/black_hooded_cloak/nmic017_0-models.bsdiff",
+      "files/mickey/area17/nmic017_1.bin": "patches/costumes/black_hooded_cloak/nmic017_0-models.bsdiff",
+      "files/mickey/area17/nmic017_2.bin": "patches/costumes/black_hooded_cloak/nmic017_0-models.bsdiff",
+      "files/mickey/area17/nmic017_3.bin": "patches/costumes/black_hooded_cloak/nmic017_0-models.bsdiff",
+      "files/mickey/area26/nmic026.bin": "patches/costumes/black_hooded_cloak/nmic017_0-models.bsdiff",
+      "files/mickey/area51/nmic051.bin": "patches/costumes/black_hooded_cloak/nmic008-models.bsdiff",
+      "files/mickey/area52/nmic052.bin": "patches/costumes/black_hooded_cloak/nmic008-models.bsdiff",
+      "files/mickey/area58/nmic058.bin": "patches/costumes/black_hooded_cloak/nmic008-models.bsdiff",
+      "files/mickey/model/mickey.bin": "patches/costumes/black_hooded_cloak/mickey-model.bsdiff",
+      "files/mickey/model/mickey.tpl": "patches/costumes/black_hooded_cloak/mickey-textures.bsdiff"
+    },
+    "original": {},
+    "sorcerer": {
+      "files/mickey/area08/nmic008.bin": "patches/costumes/sorcerer/nmic008-models.bsdiff",
+      "files/mickey/area12/nmic012.bin": "patches/costumes/sorcerer/nmic008-models.bsdiff",
+      "files/mickey/area17/nmic017_0.bin": "patches/costumes/sorcerer/nmic017_0-models.bsdiff",
+      "files/mickey/area17/nmic017_1.bin": "patches/costumes/sorcerer/nmic017_0-models.bsdiff",
+      "files/mickey/area17/nmic017_2.bin": "patches/costumes/sorcerer/nmic017_0-models.bsdiff",
+      "files/mickey/area17/nmic017_3.bin": "patches/costumes/sorcerer/nmic017_0-models.bsdiff",
+      "files/mickey/area26/nmic026.bin": "patches/costumes/sorcerer/nmic017_0-models.bsdiff",
+      "files/mickey/area51/nmic051.bin": "patches/costumes/sorcerer/nmic008-models.bsdiff",
+      "files/mickey/area52/nmic052.bin": "patches/costumes/sorcerer/nmic008-models.bsdiff",
+      "files/mickey/area58/nmic058.bin": "patches/costumes/sorcerer/nmic008-models.bsdiff",
+      "files/mickey/model/mickey.bin": "patches/costumes/sorcerer/mickey-model.bsdiff",
+      "files/mickey/model/mickey.tpl": "patches/costumes/sorcerer/mickey-textures.bsdiff"
+    },
+    "steamboat_willie": {
+      "files/mickey/area08/nmic008.bin": "patches/costumes/steamboat_willie/nmic008-models.bsdiff",
+      "files/mickey/area12/nmic012.bin": "patches/costumes/steamboat_willie/nmic008-models.bsdiff",
+      "files/mickey/area17/nmic017_0.bin": "patches/costumes/steamboat_willie/nmic017_0-models.bsdiff",
+      "files/mickey/area17/nmic017_1.bin": "patches/costumes/steamboat_willie/nmic017_0-models.bsdiff",
+      "files/mickey/area17/nmic017_2.bin": "patches/costumes/steamboat_willie/nmic017_0-models.bsdiff",
+      "files/mickey/area17/nmic017_3.bin": "patches/costumes/steamboat_willie/nmic017_0-models.bsdiff",
+      "files/mickey/area26/nmic026.bin": "patches/costumes/steamboat_willie/nmic017_0-models.bsdiff",
+      "files/mickey/area51/nmic051.bin": "patches/costumes/steamboat_willie/nmic008-models.bsdiff",
+      "files/mickey/area52/nmic052.bin": "patches/costumes/steamboat_willie/nmic008-models.bsdiff",
+      "files/mickey/area58/nmic058.bin": "patches/costumes/steamboat_willie/nmic008-models.bsdiff",
+      "files/mickey/model/mickey.bin": "patches/costumes/steamboat_willie/mickey-model.bsdiff",
+      "files/mickey/model/mickey.tpl": "patches/costumes/steamboat_willie/mickey-textures.bsdiff"
+    }
+  },
+  "shared": {
+    "files/mickey/area00/cursor.bin": "patches/costumes/shared/guide-hand.bsdiff",
+    "files/mickey/area20/cursor.bin": "patches/costumes/shared/guide-hand.bsdiff",
+    "files/mickey/area26/cursor.bin": "patches/costumes/shared/guide-hand.bsdiff",
+    "files/mickey/area39/cursor.bin": "patches/costumes/shared/guide-hand.bsdiff",
+    "sys/main.dol": "patches/costumes/shared/save-menu-aram.bsdiff"
+  }
+}

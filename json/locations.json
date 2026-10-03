@@ -1,0 +1,1925 @@
+[
+ {
+  "name": "Hole Room: Mirror Shard",
+  "id": 79800000,
+  "region": "Hole Room",
+  "area": 0,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Hole Room: Small Key",
+  "id": 79800001,
+  "region": "Hole Room",
+  "area": 0,
+  "type": "key",
+  "offsets": [
+   "0x06C9"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Hole Room: Hole Trick",
+  "id": 79800008,
+  "region": "Hole Room",
+  "area": 0,
+  "type": "trick",
+  "offsets": [
+   "0x08B4"
+  ],
+  "vanilla_item": 79790027
+ },
+ {
+  "name": "Hole Room: Wardrobe Trick",
+  "id": 79800009,
+  "region": "Hole Room",
+  "area": 0,
+  "type": "trick",
+  "offsets": [
+   "0x02A4"
+  ],
+  "vanilla_item": 79790061
+ },
+ {
+  "name": "Toy Room: Airplane",
+  "id": 79800010,
+  "region": "Toy Room",
+  "area": 1,
+  "type": "souvenir",
+  "offsets": [
+   "0x0388"
+  ],
+  "vanilla_item": null,
+  "flag": 490
+ },
+ {
+  "name": "Toy Room: Star Container",
+  "id": 79800011,
+  "region": "Toy Room",
+  "area": 1,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Train Station: Flashlight",
+  "id": 79800012,
+  "region": "Train Station",
+  "area": 2,
+  "type": "quest_item",
+  "offsets": [
+   "0x05AF"
+  ],
+  "vanilla_item": 79790072
+ },
+ {
+  "name": "Train Station: Mirror Shard",
+  "id": 79800013,
+  "region": "Train Station",
+  "area": 2,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Train Station: Dog Collar",
+  "id": 79800014,
+  "region": "Train Station",
+  "area": 2,
+  "type": "souvenir",
+  "offsets": [
+   "0x09E0"
+  ],
+  "vanilla_item": null,
+  "flag": 484
+ },
+ {
+  "name": "Train Station: Horse Trick",
+  "id": 79800015,
+  "region": "Train Station",
+  "area": 2,
+  "type": "trick",
+  "offsets": [
+   "0x0128"
+  ],
+  "vanilla_item": 79790028
+ },
+ {
+  "name": "Train Station: Witch Trick",
+  "id": 79800016,
+  "region": "Train Station",
+  "area": 2,
+  "type": "trick",
+  "offsets": [
+   "0x066C"
+  ],
+  "vanilla_item": 79790029
+ },
+ {
+  "name": "Candle Room: Coin",
+  "id": 79800017,
+  "region": "Candle Room",
+  "area": 3,
+  "type": "quest_item",
+  "offsets": [
+   "0x0634"
+  ],
+  "vanilla_item": 79790069
+ },
+ {
+  "name": "Candle Room: Small Key",
+  "id": 79800018,
+  "region": "Candle Room",
+  "area": 3,
+  "type": "key",
+  "offsets": [
+   "0x0824"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Candle Room: Candle Trick",
+  "id": 79800025,
+  "region": "Candle Room",
+  "area": 3,
+  "type": "trick",
+  "offsets": [
+   "0x03D4"
+  ],
+  "vanilla_item": 79790030
+ },
+ {
+  "name": "Candle Room: Shadow / Coin Trick",
+  "id": 79800026,
+  "region": "Candle Room",
+  "area": 3,
+  "type": "trick",
+  "offsets": [
+   "0x04F8"
+  ],
+  "vanilla_item": 79790031
+ },
+ {
+  "name": "Candle Room: Bed Trick",
+  "id": 79800027,
+  "region": "Candle Room",
+  "area": 3,
+  "type": "trick",
+  "offsets": [
+   "0x0760"
+  ],
+  "vanilla_item": 79790062
+ },
+ {
+  "name": "Avoid the Flying Sword: Sword",
+  "id": 79800028,
+  "region": "Avoid the Flying Sword",
+  "area": 4,
+  "type": "souvenir",
+  "offsets": [
+   "0x80039FD0"
+  ],
+  "vanilla_item": null,
+  "flag": 491
+ },
+ {
+  "name": "Kitchen: Coin",
+  "id": 79800029,
+  "region": "Kitchen",
+  "area": 5,
+  "type": "quest_item",
+  "offsets": [
+   "0x0CD1"
+  ],
+  "vanilla_item": 79790069
+ },
+ {
+  "name": "Kitchen: Minnie's Bow",
+  "id": 79800030,
+  "region": "Kitchen",
+  "area": 5,
+  "type": "souvenir",
+  "offsets": [
+   "0x12F3"
+  ],
+  "vanilla_item": null,
+  "flag": 485
+ },
+ {
+  "name": "Kitchen: Mirror Shard",
+  "id": 79800031,
+  "region": "Kitchen",
+  "area": 5,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Kitchen: Flour Cabinet Trick",
+  "id": 79800033,
+  "region": "Kitchen",
+  "area": 5,
+  "type": "trick",
+  "offsets": [
+   "0x0A68"
+  ],
+  "vanilla_item": 79790033
+ },
+ {
+  "name": "Kitchen: Fridge Trick",
+  "id": 79800034,
+  "region": "Kitchen",
+  "area": 5,
+  "type": "trick",
+  "offsets": [
+   "0x0DB0"
+  ],
+  "vanilla_item": 79790034
+ },
+ {
+  "name": "Kitchen: Silverware Cabinet Trick",
+  "id": 79800035,
+  "region": "Kitchen",
+  "area": 5,
+  "type": "trick",
+  "offsets": [
+   "0x033C"
+  ],
+  "vanilla_item": 79790063
+ },
+ {
+  "name": "Toy Room (Shrunken): Doghouse",
+  "id": 79800036,
+  "region": "Toy Room (Shrunken)",
+  "area": 6,
+  "type": "souvenir",
+  "offsets": [
+   "0x1324"
+  ],
+  "vanilla_item": null,
+  "flag": 483
+ },
+ {
+  "name": "Toy Room (Shrunken): Cord Trick",
+  "id": 79800037,
+  "region": "Toy Room (Shrunken)",
+  "area": 6,
+  "type": "trick",
+  "offsets": [
+   "0x02FC"
+  ],
+  "vanilla_item": 79790035
+ },
+ {
+  "name": "Toy Room (Shrunken): Plane Trick",
+  "id": 79800038,
+  "region": "Toy Room (Shrunken)",
+  "area": 6,
+  "type": "trick",
+  "offsets": [
+   "0x069C"
+  ],
+  "vanilla_item": 79790036
+ },
+ {
+  "name": "Train Station (Shrunken): Briefcase Trick (1 of 3)",
+  "id": 79800039,
+  "region": "Train Station (Shrunken)",
+  "area": 7,
+  "type": "trick",
+  "offsets": [
+   "0x00F8"
+  ],
+  "vanilla_item": 79790037
+ },
+ {
+  "name": "Grand Hall: Mirror Shard",
+  "id": 79800041,
+  "region": "Grand Hall",
+  "area": 9,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Grand Hall: Flower",
+  "id": 79800042,
+  "region": "Grand Hall",
+  "area": 9,
+  "type": "quest_item",
+  "offsets": [
+   "0x0C26"
+  ],
+  "vanilla_item": 79790068
+ },
+ {
+  "name": "Grand Hall: Star Container",
+  "id": 79800043,
+  "region": "Grand Hall",
+  "area": 9,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Grand Hall: Urn Trick",
+  "id": 79800045,
+  "region": "Grand Hall",
+  "area": 9,
+  "type": "trick",
+  "offsets": [
+   "0x0198",
+   "0x0324"
+  ],
+  "vanilla_item": 79790039
+ },
+ {
+  "name": "Grand Hall: Chandelier Trick",
+  "id": 79800046,
+  "region": "Grand Hall",
+  "area": 9,
+  "type": "trick",
+  "offsets": [
+   "0x0644"
+  ],
+  "vanilla_item": 79790040
+ },
+ {
+  "name": "Alcove: Star Container",
+  "id": 79800047,
+  "region": "Alcove",
+  "area": 10,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Alcove: Marble (0x11A4)",
+  "id": 79800048,
+  "region": "Alcove",
+  "area": 10,
+  "type": "quest_item",
+  "offsets": [
+   "0x11A4"
+  ],
+  "vanilla_item": 79790073
+ },
+ {
+  "name": "Alcove: Marble (0x1230)",
+  "id": 79800049,
+  "region": "Alcove",
+  "area": 10,
+  "type": "quest_item",
+  "offsets": [
+   "0x1230"
+  ],
+  "vanilla_item": 79790073
+ },
+ {
+  "name": "Alcove: Marble (0x12BC)",
+  "id": 79800050,
+  "region": "Alcove",
+  "area": 10,
+  "type": "quest_item",
+  "offsets": [
+   "0x12BC"
+  ],
+  "vanilla_item": 79790073
+ },
+ {
+  "name": "Alcove: Goofy Plaque",
+  "id": 79800051,
+  "region": "Alcove",
+  "area": 10,
+  "type": "souvenir",
+  "offsets": [
+   "0x1634"
+  ],
+  "vanilla_item": null,
+  "flag": 482
+ },
+ {
+  "name": "Sword Hallway: Mirror Shard",
+  "id": 79800052,
+  "region": "Sword Hallway",
+  "area": 11,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Sword Hallway: Snowman",
+  "id": 79800054,
+  "region": "Sword Hallway",
+  "area": 11,
+  "type": "souvenir",
+  "offsets": [
+   "0x80039FD0"
+  ],
+  "vanilla_item": null,
+  "flag": 492
+ },
+ {
+  "name": "Sword Hallway: Painting Trick",
+  "id": 79800055,
+  "region": "Sword Hallway",
+  "area": 11,
+  "type": "trick",
+  "offsets": [
+   "0x0224"
+  ],
+  "vanilla_item": 79790041
+ },
+ {
+  "name": "Wooden Hallway: Star Container",
+  "id": 79800056,
+  "region": "Wooden Hallway",
+  "area": 13,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "TV Room: Star Container",
+  "id": 79800057,
+  "region": "TV Room",
+  "area": 14,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "TV Room: Donald Duck Plush",
+  "id": 79800058,
+  "region": "TV Room",
+  "area": 14,
+  "type": "souvenir",
+  "offsets": [
+   "0x0A13"
+  ],
+  "vanilla_item": null,
+  "flag": 481
+ },
+ {
+  "name": "TV Room: TV Trick",
+  "id": 79800059,
+  "region": "TV Room",
+  "area": 14,
+  "type": "trick",
+  "offsets": [
+   "0x0760"
+  ],
+  "vanilla_item": 79790042
+ },
+ {
+  "name": "Tea Room: Star Container",
+  "id": 79800060,
+  "region": "Tea Room",
+  "area": 15,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Tea Room: Heart Picture",
+  "id": 79800061,
+  "region": "Tea Room",
+  "area": 15,
+  "type": "souvenir",
+  "offsets": [
+   "0x0BEC"
+  ],
+  "vanilla_item": null,
+  "flag": 480
+ },
+ {
+  "name": "Tea Room: Chair Trick",
+  "id": 79800063,
+  "region": "Tea Room",
+  "area": 15,
+  "type": "trick",
+  "offsets": [
+   "0x0124"
+  ],
+  "vanilla_item": 79790043
+ },
+ {
+  "name": "Tea Room: Tea Set Trick",
+  "id": 79800064,
+  "region": "Tea Room",
+  "area": 15,
+  "type": "trick",
+  "offsets": [
+   "0x0124"
+  ],
+  "vanilla_item": 79790044
+ },
+ {
+  "name": "Crazy Hallway: Star Container",
+  "id": 79800071,
+  "region": "Crazy Hallway",
+  "area": 17,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Bee Room: Mirror Shard",
+  "id": 79800077,
+  "region": "Bee Room",
+  "area": 18,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Bee Room: Bee",
+  "id": 79800078,
+  "region": "Bee Room",
+  "area": 18,
+  "type": "souvenir",
+  "offsets": [
+   "0x0F25"
+  ],
+  "vanilla_item": null,
+  "flag": 498
+ },
+ {
+  "name": "Bee Room: Remote Control",
+  "id": 79800079,
+  "region": "Bee Room",
+  "area": 18,
+  "type": "quest_item",
+  "offsets": [
+   "0x1011"
+  ],
+  "vanilla_item": 79790066
+ },
+ {
+  "name": "Fish Room: Marble",
+  "id": 79800080,
+  "region": "Fish Room",
+  "area": 19,
+  "type": "quest_item",
+  "offsets": [
+   "0x0ACA"
+  ],
+  "vanilla_item": 79790073
+ },
+ {
+  "name": "Fish Room: Star Container",
+  "id": 79800081,
+  "region": "Fish Room",
+  "area": 19,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Wardrobe Room: Mirror Shard",
+  "id": 79800082,
+  "region": "Wardrobe Room",
+  "area": 20,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Wardrobe Room: Flower Pot",
+  "id": 79800083,
+  "region": "Wardrobe Room",
+  "area": 20,
+  "type": "souvenir",
+  "offsets": [
+   "0x11D4"
+  ],
+  "vanilla_item": null,
+  "flag": 495
+ },
+ {
+  "name": "Wardrobe Room: Shard Wardrobe Trick",
+  "id": 79800084,
+  "region": "Wardrobe Room",
+  "area": 20,
+  "type": "trick",
+  "offsets": [
+   "0x02D0"
+  ],
+  "vanilla_item": 79790045
+ },
+ {
+  "name": "Wardrobe Room: Magic Wardrobe Trick",
+  "id": 79800085,
+  "region": "Wardrobe Room",
+  "area": 20,
+  "type": "trick",
+  "offsets": [
+   "0x0BA8"
+  ],
+  "vanilla_item": 79790046
+ },
+ {
+  "name": "Footstool Room: Small Key",
+  "id": 79800092,
+  "region": "Footstool Room",
+  "area": 22,
+  "type": "key",
+  "offsets": [
+   "0x065A"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Carpet Hallway: Mirror Shard",
+  "id": 79800099,
+  "region": "Carpet Hallway",
+  "area": 23,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Carpet Hallway: Carpet Trick",
+  "id": 79800106,
+  "region": "Carpet Hallway",
+  "area": 23,
+  "type": "trick",
+  "offsets": [
+   "0x0210"
+  ],
+  "vanilla_item": 79790047
+ },
+ {
+  "name": "Train: Star Container",
+  "id": 79800107,
+  "region": "Train",
+  "area": 24,
+  "type": "vessel",
+  "offsets": [
+   "0x0926"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Train: Train",
+  "id": 79800108,
+  "region": "Train",
+  "area": 24,
+  "type": "souvenir",
+  "offsets": [
+   "0x80039FD0"
+  ],
+  "vanilla_item": null,
+  "flag": 500
+ },
+ {
+  "name": "Train: Briefcase Trick (2 of 3)",
+  "id": 79800109,
+  "region": "Train",
+  "area": 24,
+  "type": "trick",
+  "offsets": [
+   "0x0044"
+  ],
+  "vanilla_item": 79790037
+ },
+ {
+  "name": "Train: Briefcase Trick (3 of 3)",
+  "id": 79800110,
+  "region": "Train",
+  "area": 24,
+  "type": "trick",
+  "offsets": [
+   "0x03E8"
+  ],
+  "vanilla_item": 79790037
+ },
+ {
+  "name": "Piggy Room: Coin",
+  "id": 79800111,
+  "region": "Piggy Room",
+  "area": 25,
+  "type": "quest_item",
+  "offsets": [
+   "0x0504"
+  ],
+  "vanilla_item": 79790069
+ },
+ {
+  "name": "Piggy Room: Gear",
+  "id": 79800112,
+  "region": "Piggy Room",
+  "area": 25,
+  "type": "quest_item",
+  "offsets": [
+   "0x05A9"
+  ],
+  "vanilla_item": 79790070
+ },
+ {
+  "name": "Piggy Room: Star Container",
+  "id": 79800113,
+  "region": "Piggy Room",
+  "area": 25,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Piggy Room: Piggy Bank",
+  "id": 79800114,
+  "region": "Piggy Room",
+  "area": 25,
+  "type": "souvenir",
+  "offsets": [
+   "0x083C"
+  ],
+  "vanilla_item": null,
+  "flag": 496
+ },
+ {
+  "name": "Entrance: Small Key",
+  "id": 79800115,
+  "region": "Entrance",
+  "area": 26,
+  "type": "key",
+  "offsets": [
+   "0x0943"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Entrance: Star Container",
+  "id": 79800116,
+  "region": "Entrance",
+  "area": 26,
+  "type": "vessel",
+  "offsets": [
+   "0x0D25"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Entrance: Star Door Trick",
+  "id": 79800117,
+  "region": "Entrance",
+  "area": 26,
+  "type": "trick",
+  "offsets": [
+   "0x0D70"
+  ],
+  "vanilla_item": 79790050
+ },
+ {
+  "name": "Storage Room: Small Key",
+  "id": 79800124,
+  "region": "Storage Room",
+  "area": 29,
+  "type": "key",
+  "offsets": [
+   "0x0ECA"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Storage Room: Shoe Trick",
+  "id": 79800125,
+  "region": "Storage Room",
+  "area": 29,
+  "type": "trick",
+  "offsets": [
+   "0x0434"
+  ],
+  "vanilla_item": 79790051
+ },
+ {
+  "name": "Storage Room: Right Painting Trick",
+  "id": 79800126,
+  "region": "Storage Room",
+  "area": 29,
+  "type": "trick",
+  "offsets": [
+   "0x0434"
+  ],
+  "vanilla_item": 79790064
+ },
+ {
+  "name": "Cave: Mirror Shard",
+  "id": 79800127,
+  "region": "Cave",
+  "area": 31,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Gear Room: Mirror Shard",
+  "id": 79800128,
+  "region": "Gear Room",
+  "area": 32,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Gear Room: Lever Trick",
+  "id": 79800129,
+  "region": "Gear Room",
+  "area": 32,
+  "type": "trick",
+  "offsets": [
+   "0x083C"
+  ],
+  "vanilla_item": 79790052
+ },
+ {
+  "name": "Bell Tower Roof: Small Key",
+  "id": 79800130,
+  "region": "Bell Tower Roof (Lower Ledge)",
+  "area": 33,
+  "type": "key",
+  "offsets": [
+   "0x02F8"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Bell Tower Roof: Star Container",
+  "id": 79800131,
+  "region": "Bell Tower Roof (Lower Ledge)",
+  "area": 33,
+  "type": "vessel",
+  "offsets": [
+   "0x0E10"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Bell Tower Roof: Clock Tower Model",
+  "id": 79800132,
+  "region": "Bell Tower Roof",
+  "area": 33,
+  "type": "souvenir",
+  "offsets": [
+   "0x1318"
+  ],
+  "vanilla_item": null,
+  "flag": 499
+ },
+ {
+  "name": "Bell Tower Roof: Pink Balloon",
+  "id": 79800133,
+  "region": "Bell Tower Roof",
+  "area": 33,
+  "type": "souvenir",
+  "offsets": [
+   "0x13B4"
+  ],
+  "vanilla_item": null,
+  "flag": 489
+ },
+ {
+  "name": "Bell Tower Roof: Clock Face Trick",
+  "id": 79800134,
+  "region": "Bell Tower Roof (Clock Roof)",
+  "area": 33,
+  "type": "trick",
+  "offsets": [
+   "0x0350"
+  ],
+  "vanilla_item": 79790053
+ },
+ {
+  "name": "Bell Tower Roof: Tightrope Trick",
+  "id": 79800135,
+  "region": "Bell Tower Roof (Clock Roof)",
+  "area": 33,
+  "type": "trick",
+  "offsets": [
+   "0x0AFC"
+  ],
+  "vanilla_item": 79790054
+ },
+ {
+  "name": "Bell Tower Interior: Mirror Shard",
+  "id": 79800136,
+  "region": "Bell Tower Interior",
+  "area": 35,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Bell Tower Interior: Star Container",
+  "id": 79800137,
+  "region": "Bell Tower Interior",
+  "area": 35,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Dungeon: Miniature Mansion",
+  "id": 79800138,
+  "region": "Dungeon",
+  "area": 36,
+  "type": "souvenir",
+  "offsets": [
+   "0x009C"
+  ],
+  "vanilla_item": null,
+  "flag": 505
+ },
+ {
+  "name": "Wine Cellar: Empty Can",
+  "id": 79800139,
+  "region": "Wine Cellar",
+  "area": 37,
+  "type": "quest_item",
+  "offsets": [
+   "0x084D"
+  ],
+  "vanilla_item": 79790067
+ },
+ {
+  "name": "Wine Cellar: Dojo",
+  "id": 79800140,
+  "region": "Wine Cellar",
+  "area": 37,
+  "type": "souvenir",
+  "offsets": [
+   "0x08CC"
+  ],
+  "vanilla_item": null,
+  "flag": 503
+ },
+ {
+  "name": "Broken Room: Star Container",
+  "id": 79800141,
+  "region": "Broken Room",
+  "area": 39,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Broken Room: Pole Trick (Part 1)",
+  "id": 79800142,
+  "region": "Broken Room",
+  "area": 39,
+  "type": "trick",
+  "offsets": [
+   "0x04D4"
+  ],
+  "vanilla_item": 79790055
+ },
+ {
+  "name": "Broken Room: Pole Trick (Part 2)",
+  "id": 79800143,
+  "region": "Broken Room",
+  "area": 39,
+  "type": "trick",
+  "offsets": [
+   "0x058C"
+  ],
+  "vanilla_item": 79790055
+ },
+ {
+  "name": "Fireplace Room: Star Container",
+  "id": 79800144,
+  "region": "Fireplace Room",
+  "area": 40,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Fireplace Room: Friends Picture",
+  "id": 79800145,
+  "region": "Fireplace Room",
+  "area": 40,
+  "type": "souvenir",
+  "offsets": [
+   "0x01D8"
+  ],
+  "vanilla_item": null,
+  "flag": 488
+ },
+ {
+  "name": "Attic: Windmill",
+  "id": 79800146,
+  "region": "Attic",
+  "area": 41,
+  "type": "souvenir",
+  "offsets": [
+   "0x05E6"
+  ],
+  "vanilla_item": null,
+  "flag": 504
+ },
+ {
+  "name": "Attic: Ghost Trick",
+  "id": 79800147,
+  "region": "Attic",
+  "area": 41,
+  "type": "trick",
+  "offsets": [
+   "0x031C"
+  ],
+  "vanilla_item": 79790057
+ },
+ {
+  "name": "Music Room: Mirror Shard",
+  "id": 79800148,
+  "region": "Music Room",
+  "area": 42,
+  "type": "shard",
+  "offsets": [
+   "0x005A"
+  ],
+  "vanilla_item": 79790001
+ },
+ {
+  "name": "Music Room: Star Container",
+  "id": 79800154,
+  "region": "Music Room",
+  "area": 42,
+  "type": "vessel",
+  "offsets": [
+   "0x0046"
+  ],
+  "vanilla_item": 79790002
+ },
+ {
+  "name": "Music Room: Guitar Trick",
+  "id": 79800155,
+  "region": "Music Room",
+  "area": 42,
+  "type": "trick",
+  "offsets": [
+   "0x0304"
+  ],
+  "vanilla_item": 79790058
+ },
+ {
+  "name": "Spa Room: Can with Goldfish",
+  "id": 79800158,
+  "region": "Spa Room",
+  "area": 45,
+  "type": "quest_item",
+  "offsets": [
+   "0x0C17"
+  ],
+  "vanilla_item": 79790074
+ },
+ {
+  "name": "Spa Room: Rubber Duck",
+  "id": 79800159,
+  "region": "Spa Room",
+  "area": 45,
+  "type": "souvenir",
+  "offsets": [
+   "0x0DCC"
+  ],
+  "vanilla_item": null,
+  "flag": 497
+ },
+ {
+  "name": "Spa Room: Star Container Trick",
+  "id": 79800160,
+  "region": "Spa Room",
+  "area": 45,
+  "type": "trick",
+  "offsets": [
+   "0x0278"
+  ],
+  "vanilla_item": 79790059
+ },
+ {
+  "name": "Library: Small Key",
+  "id": 79800161,
+  "region": "Library",
+  "area": 46,
+  "type": "key",
+  "offsets": [
+   "0x04E3",
+   "0x174D"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Library: Magnifying Glass",
+  "id": 79800162,
+  "region": "Library",
+  "area": 46,
+  "type": "quest_item",
+  "offsets": [
+   "0x0357"
+  ],
+  "vanilla_item": 79790071
+ },
+ {
+  "name": "Library: Bookshelf Trick",
+  "id": 79800169,
+  "region": "Library",
+  "area": 46,
+  "type": "trick",
+  "offsets": [
+   "0x0904"
+  ],
+  "vanilla_item": 79790060
+ },
+ {
+  "name": "Dance with Mickey: Cake",
+  "id": 79800170,
+  "region": "Dance with Mickey",
+  "area": 48,
+  "type": "souvenir",
+  "offsets": [
+   "0x80039FD0"
+  ],
+  "vanilla_item": null,
+  "flag": 494
+ },
+ {
+  "name": "Mirror Room: Ghost",
+  "id": 79800171,
+  "region": "Mirror Room",
+  "area": 51,
+  "type": "souvenir",
+  "offsets": [
+   "0x80039FD0"
+  ],
+  "vanilla_item": null,
+  "flag": 501
+ },
+ {
+  "name": "Mickey the Guitar Master: Guitar",
+  "id": 79800172,
+  "region": "Mickey the Guitar Master",
+  "area": 54,
+  "type": "souvenir",
+  "offsets": [
+   "0x80039FD0"
+  ],
+  "vanilla_item": null,
+  "flag": 493
+ },
+ {
+  "name": "Hole Room: Star 1",
+  "id": 79800173,
+  "region": "Hole Room",
+  "area": 0,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 4
+ },
+ {
+  "name": "Toy Room: Star 1",
+  "id": 79800174,
+  "region": "Toy Room",
+  "area": 1,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 3
+ },
+ {
+  "name": "Toy Room: Star 2",
+  "id": 79800175,
+  "region": "Toy Room",
+  "area": 1,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 5
+ },
+ {
+  "name": "Train Station: Star 1",
+  "id": 79800176,
+  "region": "Train Station",
+  "area": 2,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 10
+ },
+ {
+  "name": "Train Station: Star 2",
+  "id": 79800177,
+  "region": "Train Station",
+  "area": 2,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 12
+ },
+ {
+  "name": "Grand Hall: Star 1",
+  "id": 79800178,
+  "region": "Grand Hall",
+  "area": 9,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 49
+ },
+ {
+  "name": "Grand Hall: Star 2",
+  "id": 79800179,
+  "region": "Grand Hall",
+  "area": 9,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 50
+ },
+ {
+  "name": "Alcove: Star 1",
+  "id": 79800180,
+  "region": "Alcove",
+  "area": 10,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 3
+ },
+ {
+  "name": "Sword Hallway: Star 1",
+  "id": 79800181,
+  "region": "Sword Hallway",
+  "area": 11,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 2
+ },
+ {
+  "name": "Wooden Hallway: Star 1",
+  "id": 79800182,
+  "region": "Wooden Hallway",
+  "area": 13,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 7
+ },
+ {
+  "name": "Wooden Hallway: Star 2",
+  "id": 79800183,
+  "region": "Wooden Hallway",
+  "area": 13,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 10
+ },
+ {
+  "name": "Dark Room: Star 1",
+  "id": 79800184,
+  "region": "Dark Room",
+  "area": 16,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 3
+ },
+ {
+  "name": "Dark Room: Star 2",
+  "id": 79800185,
+  "region": "Dark Room",
+  "area": 16,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 5
+ },
+ {
+  "name": "Crazy Hallway: Star 1",
+  "id": 79800186,
+  "region": "Crazy Hallway",
+  "area": 17,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 19
+ },
+ {
+  "name": "Crazy Hallway: Star 2",
+  "id": 79800187,
+  "region": "Crazy Hallway",
+  "area": 17,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 20
+ },
+ {
+  "name": "Rug Room: Star 1",
+  "id": 79800188,
+  "region": "Rug Room",
+  "area": 21,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 12
+ },
+ {
+  "name": "Carpet Hallway: Star 1",
+  "id": 79800189,
+  "region": "Carpet Hallway",
+  "area": 23,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 0
+ },
+ {
+  "name": "Carpet Hallway: Star 2",
+  "id": 79800190,
+  "region": "Carpet Hallway",
+  "area": 23,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 16
+ },
+ {
+  "name": "Piggy Room: Star 1",
+  "id": 79800191,
+  "region": "Piggy Room",
+  "area": 25,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 6
+ },
+ {
+  "name": "Bell Tower Roof: Star 1",
+  "id": 79800192,
+  "region": "Bell Tower Roof (Lower Ledge)",
+  "area": 33,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 12
+ },
+ {
+  "name": "Bell Tower Roof: Star 2",
+  "id": 79800193,
+  "region": "Bell Tower Roof (Lower Ledge)",
+  "area": 33,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 13
+ },
+ {
+  "name": "Bell Tower Roof: Star 3",
+  "id": 79800194,
+  "region": "Bell Tower Roof (Lower Ledge)",
+  "area": 33,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 14
+ },
+ {
+  "name": "Dark Hallway: Star 1",
+  "id": 79800195,
+  "region": "Dark Hallway",
+  "area": 34,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 2
+ },
+ {
+  "name": "Dark Hallway: Star 2",
+  "id": 79800196,
+  "region": "Dark Hallway",
+  "area": 34,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 3
+ },
+ {
+  "name": "Dark Hallway: Star 3",
+  "id": 79800197,
+  "region": "Dark Hallway",
+  "area": 34,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 4
+ },
+ {
+  "name": "Dark Hallway: Star 4",
+  "id": 79800198,
+  "region": "Dark Hallway",
+  "area": 34,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 7
+ },
+ {
+  "name": "Dark Hallway: Star 5",
+  "id": 79800199,
+  "region": "Dark Hallway",
+  "area": 34,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 8
+ },
+ {
+  "name": "Dungeon: Star 1",
+  "id": 79800200,
+  "region": "Dungeon",
+  "area": 36,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 6
+ },
+ {
+  "name": "Dungeon: Star 2",
+  "id": 79800201,
+  "region": "Dungeon",
+  "area": 36,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 10
+ },
+ {
+  "name": "Dungeon: Star 3",
+  "id": 79800202,
+  "region": "Dungeon",
+  "area": 36,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 11
+ },
+ {
+  "name": "Fireplace Room: Star 1",
+  "id": 79800203,
+  "region": "Fireplace Room",
+  "area": 40,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 2
+ },
+ {
+  "name": "Fireplace Room: Star 2",
+  "id": 79800204,
+  "region": "Fireplace Room",
+  "area": 40,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 3
+ },
+ {
+  "name": "Fireplace Room: Star 3",
+  "id": 79800205,
+  "region": "Fireplace Room",
+  "area": 40,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 4
+ },
+ {
+  "name": "Fireplace Room: Star 4",
+  "id": 79800206,
+  "region": "Fireplace Room",
+  "area": 40,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 5
+ },
+ {
+  "name": "Fireplace Room: Star 5",
+  "id": 79800207,
+  "region": "Fireplace Room",
+  "area": 40,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 6
+ },
+ {
+  "name": "Attic: Star 1",
+  "id": 79800208,
+  "region": "Attic",
+  "area": 41,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 5
+ },
+ {
+  "name": "Music Room: Star 1",
+  "id": 79800209,
+  "region": "Music Room",
+  "area": 42,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 6
+ },
+ {
+  "name": "Music Room: Star 2",
+  "id": 79800210,
+  "region": "Music Room",
+  "area": 42,
+  "type": "star",
+  "offsets": [],
+  "vanilla_item": null,
+  "star_point": 8
+ },
+ {
+  "name": "Hole Room: Hidden Hat 1",
+  "id": 79800211,
+  "region": "Hole Room",
+  "area": 0,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x107f"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Hole Room: Hidden Hat 2",
+  "id": 79800212,
+  "region": "Hole Room",
+  "area": 0,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x10e0"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Hole Room: Hidden Hat 3",
+  "id": 79800213,
+  "region": "Hole Room",
+  "area": 0,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x114f"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Candle Room: Hidden Hat 1",
+  "id": 79800214,
+  "region": "Candle Room",
+  "area": 3,
+  "type": "hidden_hat",
+  "offsets": [
+   "0xaef"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Candle Room: Hidden Hat 2",
+  "id": 79800215,
+  "region": "Candle Room",
+  "area": 3,
+  "type": "hidden_hat",
+  "offsets": [
+   "0xb54"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Candle Room: Hidden Hat 3",
+  "id": 79800216,
+  "region": "Candle Room",
+  "area": 3,
+  "type": "hidden_hat",
+  "offsets": [
+   "0xbbf"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Dark Room: Hidden Hat 1",
+  "id": 79800217,
+  "region": "Dark Room",
+  "area": 16,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x2dc"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Dark Room: Hidden Hat 2",
+  "id": 79800218,
+  "region": "Dark Room",
+  "area": 16,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x3c4"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Dark Room: Hidden Hat 3",
+  "id": 79800219,
+  "region": "Dark Room",
+  "area": 16,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x484"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Crazy Hallway: Hidden Hat 1",
+  "id": 79800220,
+  "region": "Crazy Hallway",
+  "area": 17,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x115c"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Crazy Hallway: Hidden Hat 2",
+  "id": 79800221,
+  "region": "Crazy Hallway",
+  "area": 17,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x11ec"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Crazy Hallway: Hidden Hat 3",
+  "id": 79800222,
+  "region": "Crazy Hallway",
+  "area": 17,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x1220"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Rug Room: Hidden Hat 1",
+  "id": 79800223,
+  "region": "Rug Room",
+  "area": 21,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x18b"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Rug Room: Hidden Hat 2",
+  "id": 79800224,
+  "region": "Rug Room",
+  "area": 21,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x1ef"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Rug Room: Hidden Hat 3",
+  "id": 79800225,
+  "region": "Rug Room",
+  "area": 21,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x25a"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Footstool Room: Hidden Hat 1",
+  "id": 79800226,
+  "region": "Footstool Room",
+  "area": 22,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x7a3"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Footstool Room: Hidden Hat 2",
+  "id": 79800227,
+  "region": "Footstool Room",
+  "area": 22,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x804"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Footstool Room: Hidden Hat 3",
+  "id": 79800228,
+  "region": "Footstool Room",
+  "area": 22,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x864"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Music Room: Hidden Hat 1",
+  "id": 79800229,
+  "region": "Music Room",
+  "area": 42,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x8c2"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Music Room: Hidden Hat 2",
+  "id": 79800230,
+  "region": "Music Room",
+  "area": 42,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x93a"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Music Room: Hidden Hat 3",
+  "id": 79800231,
+  "region": "Music Room",
+  "area": 42,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x9db"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Library: Hidden Hat 1",
+  "id": 79800232,
+  "region": "Library",
+  "area": 46,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x1953"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Library: Hidden Hat 2",
+  "id": 79800233,
+  "region": "Library",
+  "area": 46,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x19ea"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Library: Hidden Hat 3",
+  "id": 79800234,
+  "region": "Library",
+  "area": 46,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x1a62"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Carpet Hallway: Hidden Hat 1",
+  "id": 79800235,
+  "region": "Carpet Hallway",
+  "area": 23,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x697"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Carpet Hallway: Hidden Hat 2",
+  "id": 79800236,
+  "region": "Carpet Hallway",
+  "area": 23,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x6f8"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Carpet Hallway: Hidden Hat 3",
+  "id": 79800237,
+  "region": "Carpet Hallway",
+  "area": 23,
+  "type": "hidden_hat",
+  "offsets": [
+   "0x763"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Basement: Hidden Hat 1",
+  "id": 79800238,
+  "region": "Basement",
+  "area": 28,
+  "type": "hidden_hat",
+  "offsets": [
+   "0xa5f"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Basement: Hidden Hat 2",
+  "id": 79800239,
+  "region": "Basement",
+  "area": 28,
+  "type": "hidden_hat",
+  "offsets": [
+   "0xb3b"
+  ],
+  "vanilla_item": null
+ },
+ {
+  "name": "Basement: Hidden Hat 3",
+  "id": 79800240,
+  "region": "Basement",
+  "area": 28,
+  "type": "hidden_hat",
+  "offsets": [
+   "0xba0"
+  ],
+  "vanilla_item": null
+ }
+]

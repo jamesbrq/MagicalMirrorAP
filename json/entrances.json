@@ -1,0 +1,2217 @@
+[
+ {
+  "name": "Hole Room -> Carpet Hallway",
+  "frm": "Hole Room",
+  "to": "Carpet Hallway",
+  "doorway": {
+   "side": "area000:wp0x00",
+   "file": "files/mickey/area00/area000.rel",
+   "offset": 9721,
+   "arrival": [
+    0,
+    8,
+    0
+   ],
+   "reverse": "Carpet Hallway -> Hole Room",
+   "lock_index": 8,
+   "lock_writes": [
+    [
+     9815,
+     384
+    ],
+    [
+     9823,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Hole Room -> Mirror Room",
+  "frm": "Hole Room",
+  "to": "Mirror Room",
+  "doorway": {
+   "side": "area000:wp0x07",
+   "file": "files/mickey/area00/area000.rel",
+   "offset": 9733,
+   "lock_writes": [
+    [
+     9843,
+     384
+    ],
+    [
+     9851,
+     32768
+    ]
+   ],
+   "arrival": [
+    0,
+    9,
+    7
+   ],
+   "reverse": "Mirror Room -> Hole Room",
+   "lock_index": 9,
+   "copies": [
+    {
+     "file": "files/mickey/area00/area000.rel",
+     "offset": 9729
+    }
+   ]
+  }
+ },
+ {
+  "name": "Toy Room -> Train Station",
+  "frm": "Toy Room",
+  "to": "Train Station",
+  "doorway": {
+   "side": "area001:wp0x00",
+   "file": "files/mickey/area01/area001.rel",
+   "offset": 5589,
+   "arrival": [
+    1,
+    8,
+    0
+   ],
+   "reverse": "Train Station -> Toy Room",
+   "lock_index": 10,
+   "lock_writes": [
+    [
+     5641,
+     384
+    ],
+    [
+     5649,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Toy Room -> TV Room",
+  "frm": "Toy Room",
+  "to": "TV Room",
+  "doorway": {
+   "side": "area001:wp0x06",
+   "file": "files/mickey/area01/area001.rel",
+   "offset": 5593,
+   "arrival": [
+    1,
+    7,
+    6
+   ],
+   "reverse": "TV Room -> Toy Room",
+   "lock_index": 11,
+   "lock_writes": [
+    [
+     5669,
+     384
+    ],
+    [
+     5677,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Toy Room -> Mickey the Flying Ace",
+  "frm": "Toy Room",
+  "to": "Mickey the Flying Ace"
+ },
+ {
+  "name": "Train Station -> Toy Room",
+  "frm": "Train Station",
+  "to": "Toy Room",
+  "doorway": {
+   "side": "area002:wp0x04",
+   "file": "files/mickey/area02/area002.rel",
+   "offset": 8737,
+   "arrival": [
+    2,
+    6,
+    4
+   ],
+   "reverse": "Toy Room -> Train Station",
+   "lock_index": 10,
+   "lock_writes": [
+    [
+     8845,
+     384
+    ],
+    [
+     8853,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Train Station -> Train Station (Shrunken)",
+  "frm": "Train Station",
+  "to": "Train Station (Shrunken)"
+ },
+ {
+  "name": "Candle Room -> TV Room",
+  "frm": "Candle Room",
+  "to": "TV Room",
+  "doorway": {
+   "side": "area003:wp0x05",
+   "file": "files/mickey/area03/area003.rel",
+   "offset": 14417,
+   "arrival": [
+    3,
+    7,
+    5
+   ],
+   "reverse": "TV Room -> Candle Room",
+   "lock_index": 12,
+   "lock_writes": [
+    [
+     14473,
+     384
+    ],
+    [
+     14481,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Candle Room -> Carpet Hallway",
+  "frm": "Candle Room",
+  "to": "Carpet Hallway",
+  "doorway": {
+   "side": "area003:wp0x06",
+   "file": "files/mickey/area03/area003.rel",
+   "offset": 14421,
+   "arrival": [
+    3,
+    8,
+    6
+   ],
+   "reverse": "Carpet Hallway -> Candle Room",
+   "lock_index": 13,
+   "lock_writes": [
+    [
+     14509,
+     384
+    ],
+    [
+     14517,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Kitchen -> Alcove",
+  "frm": "Kitchen",
+  "to": "Alcove",
+  "doorway": {
+   "side": "area005:wp0x01",
+   "file": "files/mickey/area05/area005.rel",
+   "offset": 19305,
+   "arrival": [
+    5,
+    0,
+    1
+   ],
+   "reverse": "Alcove -> Kitchen",
+   "lock_index": 1,
+   "lock_writes": [
+    [
+     19417,
+     384
+    ],
+    [
+     19425,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Kitchen -> Wooden Hallway",
+  "frm": "Kitchen",
+  "to": "Wooden Hallway",
+  "doorway": {
+   "side": "area005:wp0x0C",
+   "file": "files/mickey/area05/area005.rel",
+   "offset": 19317,
+   "arrival": [
+    5,
+    13,
+    12
+   ],
+   "reverse": "Wooden Hallway -> Kitchen",
+   "lock_index": 14,
+   "lock_writes": [
+    [
+     19445,
+     384
+    ],
+    [
+     19453,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Kitchen -> Mickey the Snowboarder (Entry)",
+  "frm": "Kitchen",
+  "to": "Mickey the Snowboarder (Entry)"
+ },
+ {
+  "name": "Toy Room (Shrunken) -> Toy Room Train Station",
+  "frm": "Toy Room (Shrunken)",
+  "to": "Toy Room Train Station"
+ },
+ {
+  "name": "Toy Room (Shrunken) -> Toy Room",
+  "frm": "Toy Room (Shrunken)",
+  "to": "Toy Room"
+ },
+ {
+  "name": "Toy Room (Shrunken) -> Mickey the Flying Ace",
+  "frm": "Toy Room (Shrunken)",
+  "to": "Mickey the Flying Ace"
+ },
+ {
+  "name": "Train Station (Shrunken) -> Train",
+  "frm": "Train Station (Shrunken)",
+  "to": "Train"
+ },
+ {
+  "name": "Train Station (Shrunken) -> Toy Room (Shrunken)",
+  "frm": "Train Station (Shrunken)",
+  "to": "Toy Room (Shrunken)"
+ },
+ {
+  "name": "Grand Hall -> Sword Hallway",
+  "frm": "Grand Hall",
+  "to": "Sword Hallway",
+  "doorway": {
+   "side": "area009:wp0x00",
+   "file": "files/mickey/area09/area009.rel",
+   "offset": 12381,
+   "arrival": [
+    9,
+    1,
+    0
+   ],
+   "reverse": "Sword Hallway -> Grand Hall",
+   "lock_index": 15,
+   "lock_writes": [
+    [
+     12533,
+     384
+    ],
+    [
+     12541,
+     49152
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Grand Hall -> Wooden Hallway",
+  "frm": "Grand Hall",
+  "to": "Wooden Hallway",
+  "doorway": {
+   "side": "area009:wp0x13",
+   "file": "files/mickey/area09/area009.rel",
+   "offset": 12393,
+   "arrival": [
+    9,
+    20,
+    19
+   ],
+   "reverse": "Wooden Hallway -> Grand Hall",
+   "lock_index": 16,
+   "lock_writes": [
+    [
+     12557,
+     384
+    ],
+    [
+     12565,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Grand Hall -> Dark Room",
+  "frm": "Grand Hall",
+  "to": "Dark Room",
+  "doorway": {
+   "side": "area009:wp0x15",
+   "file": "files/mickey/area09/area009.rel",
+   "offset": 12397,
+   "arrival": [
+    9,
+    22,
+    21
+   ],
+   "reverse": "Dark Room -> Grand Hall",
+   "lock_index": 17,
+   "lock_writes": [
+    [
+     12585,
+     384
+    ],
+    [
+     12593,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Alcove -> Kitchen",
+  "frm": "Alcove",
+  "to": "Kitchen",
+  "doorway": {
+   "side": "area010:wp0x00",
+   "file": "files/mickey/area10/area010.rel",
+   "offset": 18193,
+   "arrival": [
+    10,
+    1,
+    0
+   ],
+   "reverse": "Kitchen -> Alcove",
+   "lock_index": 1,
+   "lock_writes": [
+    [
+     18489,
+     384
+    ],
+    [
+     18497,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Alcove -> Footstool Room",
+  "frm": "Alcove",
+  "to": "Footstool Room",
+  "doorway": {
+   "side": "area010:wp0x16",
+   "file": "files/mickey/area10/area010.rel",
+   "offset": 18205,
+   "arrival": [
+    10,
+    21,
+    22
+   ],
+   "reverse": "Footstool Room -> Alcove",
+   "lock_index": 3,
+   "lock_writes": [
+    [
+     18517,
+     384
+    ],
+    [
+     18525,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Sword Hallway -> Carpet Hallway",
+  "frm": "Sword Hallway",
+  "to": "Carpet Hallway",
+  "doorway": {
+   "side": "area011:wp0x00",
+   "file": "files/mickey/area11/area011.rel",
+   "offset": 16833,
+   "arrival": [
+    11,
+    1,
+    0
+   ],
+   "reverse": "Carpet Hallway -> Sword Hallway",
+   "lock_index": 18,
+   "lock_writes": [
+    [
+     16997,
+     384
+    ],
+    [
+     17005,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Sword Hallway -> Grand Hall",
+  "frm": "Sword Hallway",
+  "to": "Grand Hall",
+  "doorway": {
+   "side": "area011:wp0x0A",
+   "file": "files/mickey/area11/area011.rel",
+   "offset": 16837,
+   "arrival": [
+    11,
+    11,
+    10
+   ],
+   "reverse": "Grand Hall -> Sword Hallway",
+   "lock_index": 15,
+   "lock_writes": [
+    [
+     16973,
+     384
+    ],
+    [
+     16981,
+     49152
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Mirror Room -> Hole Room",
+  "frm": "Mirror Room",
+  "to": "Hole Room",
+  "doorway": {
+   "side": "area012:wp0x00",
+   "file": "files/mickey/area12/area012.rel",
+   "offset": 20461,
+   "lock_writes": [
+    [
+     20517,
+     384
+    ],
+    [
+     20525,
+     32768
+    ]
+   ],
+   "arrival": [
+    12,
+    1,
+    0
+   ],
+   "reverse": "Hole Room -> Mirror Room",
+   "lock_index": 9,
+   "copies": [
+    {
+     "file": "files/mickey/area51/area051.rel",
+     "offset": 23773,
+     "lock_writes": [
+      [
+       23897,
+       384
+      ],
+      [
+       23905,
+       32768
+      ]
+     ]
+    },
+    {
+     "file": "files/mickey/area52/area052.rel",
+     "offset": 29785,
+     "lock_writes": [
+      [
+       30213,
+       384
+      ],
+      [
+       30221,
+       32768
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "name": "Mirror Room -> Entrance",
+  "frm": "Mirror Room",
+  "to": "Entrance"
+ },
+ {
+  "name": "Wooden Hallway -> Grand Hall",
+  "frm": "Wooden Hallway",
+  "to": "Grand Hall",
+  "doorway": {
+   "side": "area013:wp0x01",
+   "file": "files/mickey/area13/area013.rel",
+   "offset": 1461,
+   "arrival": [
+    13,
+    4,
+    1
+   ],
+   "reverse": "Grand Hall -> Wooden Hallway",
+   "lock_index": 16,
+   "lock_writes": [
+    [
+     1545,
+     384
+    ],
+    [
+     1553,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Wooden Hallway -> Tea Room",
+  "frm": "Wooden Hallway",
+  "to": "Tea Room",
+  "doorway": {
+   "side": "area013:wp0x02",
+   "file": "files/mickey/area13/area013.rel",
+   "offset": 1465,
+   "arrival": [
+    13,
+    5,
+    2
+   ],
+   "reverse": "Tea Room -> Wooden Hallway",
+   "lock_index": 19,
+   "lock_writes": [
+    [
+     1573,
+     384
+    ],
+    [
+     1581,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Wooden Hallway -> Kitchen",
+  "frm": "Wooden Hallway",
+  "to": "Kitchen",
+  "doorway": {
+   "side": "area013:wp0x00",
+   "file": "files/mickey/area13/area013.rel",
+   "offset": 1469,
+   "arrival": [
+    13,
+    3,
+    0
+   ],
+   "reverse": "Kitchen -> Wooden Hallway",
+   "lock_index": 14,
+   "lock_writes": [
+    [
+     1517,
+     384
+    ],
+    [
+     1525,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "TV Room -> Toy Room",
+  "frm": "TV Room",
+  "to": "Toy Room",
+  "doorway": {
+   "side": "area014:wp0x02",
+   "file": "files/mickey/area14/area014.rel",
+   "offset": 13969,
+   "arrival": [
+    14,
+    3,
+    2
+   ],
+   "reverse": "Toy Room -> TV Room",
+   "lock_index": 11,
+   "lock_writes": [
+    [
+     14057,
+     384
+    ],
+    [
+     14065,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "TV Room -> Candle Room",
+  "frm": "TV Room",
+  "to": "Candle Room",
+  "doorway": {
+   "side": "area014:wp0x00",
+   "file": "files/mickey/area14/area014.rel",
+   "offset": 13981,
+   "arrival": [
+    14,
+    1,
+    0
+   ],
+   "reverse": "Candle Room -> TV Room",
+   "lock_index": 12,
+   "lock_writes": [
+    [
+     14085,
+     384
+    ],
+    [
+     14093,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "TV Room -> Dance with Mickey",
+  "frm": "TV Room",
+  "to": "Dance with Mickey"
+ },
+ {
+  "name": "Tea Room -> Wooden Hallway",
+  "frm": "Tea Room",
+  "to": "Wooden Hallway",
+  "doorway": {
+   "side": "area015:wp0x0A",
+   "file": "files/mickey/area15/area015.rel",
+   "offset": 13013,
+   "arrival": [
+    15,
+    1,
+    10
+   ],
+   "reverse": "Wooden Hallway -> Tea Room",
+   "lock_index": 19,
+   "lock_writes": [
+    [
+     13077,
+     384
+    ],
+    [
+     13085,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Dark Room -> Grand Hall",
+  "frm": "Dark Room",
+  "to": "Grand Hall",
+  "doorway": {
+   "side": "area016:wp0x01",
+   "file": "files/mickey/area16/area016.rel",
+   "offset": 3033,
+   "arrival": [
+    16,
+    2,
+    1
+   ],
+   "reverse": "Grand Hall -> Dark Room",
+   "lock_index": 17,
+   "lock_writes": [
+    [
+     3085,
+     384
+    ],
+    [
+     3093,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Dark Room -> Basement",
+  "frm": "Dark Room",
+  "to": "Basement",
+  "doorway": {
+   "side": "area016:wp0x04",
+   "file": "files/mickey/area16/area016.rel",
+   "offset": 3037,
+   "arrival": [
+    16,
+    13,
+    4
+   ],
+   "reverse": "Basement -> Dark Room"
+  }
+ },
+ {
+  "name": "Crazy Hallway -> Bee Room",
+  "frm": "Crazy Hallway",
+  "to": "Bee Room",
+  "doorway": {
+   "side": "area017:wp0x0A",
+   "file": "files/mickey/area17/area017.rel",
+   "offset": 18501,
+   "arrival": [
+    17,
+    11,
+    10
+   ],
+   "reverse": "Bee Room -> Crazy Hallway",
+   "lock_index": 5,
+   "lock_writes": [
+    [
+     18745,
+     384
+    ],
+    [
+     18753,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Crazy Hallway -> Footstool Room",
+  "frm": "Crazy Hallway",
+  "to": "Footstool Room",
+  "doorway": {
+   "side": "area017:wp0x00",
+   "file": "files/mickey/area17/area017.rel",
+   "offset": 18505,
+   "arrival": [
+    17,
+    1,
+    0
+   ],
+   "reverse": "Footstool Room -> Crazy Hallway",
+   "lock_index": 4,
+   "lock_writes": [
+    [
+     18717,
+     384
+    ],
+    [
+     18725,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Bee Room -> Crazy Hallway",
+  "frm": "Bee Room",
+  "to": "Crazy Hallway",
+  "doorway": {
+   "side": "area018:wp0x00",
+   "file": "files/mickey/area18/area018.rel",
+   "offset": 18309,
+   "arrival": [
+    18,
+    1,
+    0
+   ],
+   "reverse": "Crazy Hallway -> Bee Room",
+   "lock_index": 5,
+   "lock_writes": [
+    [
+     18433,
+     384
+    ],
+    [
+     18441,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Bee Room -> Fish Room",
+  "frm": "Bee Room",
+  "to": "Fish Room",
+  "doorway": {
+   "side": "area018:wp0x05",
+   "file": "files/mickey/area18/area018.rel",
+   "offset": 18321,
+   "arrival": [
+    18,
+    6,
+    5
+   ],
+   "reverse": "Fish Room -> Bee Room",
+   "lock_index": 20,
+   "lock_writes": [
+    [
+     18461,
+     384
+    ],
+    [
+     18469,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Fish Room -> Bee Room",
+  "frm": "Fish Room",
+  "to": "Bee Room",
+  "doorway": {
+   "side": "area019:wp0x04",
+   "file": "files/mickey/area19/area019.rel",
+   "offset": 13677,
+   "arrival": [
+    19,
+    5,
+    4
+   ],
+   "reverse": "Bee Room -> Fish Room",
+   "lock_index": 20,
+   "lock_writes": [
+    [
+     13817,
+     384
+    ],
+    [
+     13825,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Fish Room -> Wardrobe Room",
+  "frm": "Fish Room",
+  "to": "Wardrobe Room",
+  "doorway": {
+   "side": "area019:wp0x01",
+   "file": "files/mickey/area19/area019.rel",
+   "offset": 13681,
+   "arrival": [
+    19,
+    0,
+    1
+   ],
+   "reverse": "Wardrobe Room -> Fish Room",
+   "lock_index": 21,
+   "lock_writes": [
+    [
+     13845,
+     384
+    ],
+    [
+     13853,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Fish Room -> Rug Room",
+  "frm": "Fish Room",
+  "to": "Rug Room",
+  "doorway": {
+   "side": "area019:wp0x03",
+   "file": "files/mickey/area19/area019.rel",
+   "offset": 13685,
+   "arrival": [
+    19,
+    9,
+    3
+   ],
+   "reverse": "Rug Room -> Fish Room",
+   "lock_index": 6,
+   "lock_writes": [
+    [
+     13789,
+     384
+    ],
+    [
+     13797,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Wardrobe Room -> Fish Room",
+  "frm": "Wardrobe Room",
+  "to": "Fish Room",
+  "doorway": {
+   "side": "area020:wp0x00",
+   "file": "files/mickey/area20/area020.rel",
+   "offset": 14429,
+   "arrival": [
+    20,
+    1,
+    0
+   ],
+   "reverse": "Fish Room -> Wardrobe Room",
+   "lock_index": 21,
+   "lock_writes": [
+    [
+     14623,
+     384
+    ],
+    [
+     14631,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Rug Room -> Fish Room",
+  "frm": "Rug Room",
+  "to": "Fish Room",
+  "doorway": {
+   "side": "area021:wp0x00",
+   "file": "files/mickey/area21/area021.rel",
+   "offset": 2677,
+   "arrival": [
+    21,
+    10,
+    0
+   ],
+   "reverse": "Fish Room -> Rug Room",
+   "lock_index": 6,
+   "lock_writes": [
+    [
+     2753,
+     384
+    ],
+    [
+     2761,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Rug Room -> Music Room",
+  "frm": "Rug Room",
+  "to": "Music Room",
+  "doorway": {
+   "side": "area021:wp0x01",
+   "file": "files/mickey/area21/area021.rel",
+   "offset": 2681,
+   "arrival": [
+    21,
+    9,
+    1
+   ],
+   "reverse": "Music Room -> Rug Room",
+   "lock_index": 22,
+   "lock_writes": [
+    [
+     2781,
+     384
+    ],
+    [
+     2789,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Rug Room -> Attic",
+  "frm": "Rug Room",
+  "to": "Attic",
+  "doorway": {
+   "side": "area021:wp0x03",
+   "file": "files/mickey/area21/area021.rel",
+   "offset": 2685,
+   "arrival": [
+    21,
+    2,
+    3
+   ],
+   "reverse": "Attic -> Rug Room",
+   "hidden_hat_arrival": 1802
+  }
+ },
+ {
+  "name": "Footstool Room -> Alcove",
+  "frm": "Footstool Room",
+  "to": "Alcove",
+  "doorway": {
+   "side": "area022:wp0x00",
+   "file": "files/mickey/area22/area022.rel",
+   "offset": 6369,
+   "arrival": [
+    22,
+    8,
+    0
+   ],
+   "reverse": "Alcove -> Footstool Room",
+   "lock_index": 3,
+   "lock_writes": [
+    [
+     6511,
+     384
+    ],
+    [
+     6519,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Footstool Room -> Crazy Hallway",
+  "frm": "Footstool Room",
+  "to": "Crazy Hallway",
+  "doorway": {
+   "side": "area022:wp0x07",
+   "file": "files/mickey/area22/area022.rel",
+   "offset": 6373,
+   "arrival": [
+    22,
+    9,
+    7
+   ],
+   "reverse": "Crazy Hallway -> Footstool Room",
+   "lock_index": 4,
+   "lock_writes": [
+    [
+     6539,
+     384
+    ],
+    [
+     6547,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Footstool Room -> Mirror Room",
+  "frm": "Footstool Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Carpet Hallway -> Candle Room",
+  "frm": "Carpet Hallway",
+  "to": "Candle Room",
+  "doorway": {
+   "side": "area023:wp0x02",
+   "file": "files/mickey/area23/area023.rel",
+   "offset": 3981,
+   "arrival": [
+    23,
+    6,
+    2
+   ],
+   "reverse": "Candle Room -> Carpet Hallway",
+   "lock_index": 13,
+   "lock_writes": [
+    [
+     4161,
+     384
+    ],
+    [
+     4169,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Carpet Hallway -> Hole Room",
+  "frm": "Carpet Hallway",
+  "to": "Hole Room",
+  "doorway": {
+   "side": "area023:wp0x04",
+   "file": "files/mickey/area23/area023.rel",
+   "offset": 3993,
+   "arrival": [
+    23,
+    8,
+    4
+   ],
+   "reverse": "Hole Room -> Carpet Hallway",
+   "lock_index": 8,
+   "lock_writes": [
+    [
+     4133,
+     384
+    ],
+    [
+     4141,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Carpet Hallway -> Piggy Room",
+  "frm": "Carpet Hallway",
+  "to": "Piggy Room"
+ },
+ {
+  "name": "Carpet Hallway -> Sword Hallway",
+  "frm": "Carpet Hallway",
+  "to": "Sword Hallway",
+  "doorway": {
+   "side": "area023:wp0x03",
+   "file": "files/mickey/area23/area023.rel",
+   "offset": 4001,
+   "arrival": [
+    23,
+    7,
+    3
+   ],
+   "reverse": "Sword Hallway -> Carpet Hallway",
+   "lock_index": 18,
+   "lock_writes": [
+    [
+     4218,
+     384
+    ],
+    [
+     4226,
+     32768
+    ],
+    [
+     4241,
+     384
+    ],
+    [
+     4249,
+     32768
+    ],
+    [
+     4263,
+     384
+    ],
+    [
+     4271,
+     32768
+    ],
+    [
+     4285,
+     384
+    ],
+    [
+     4293,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Train -> Toy Room (Shrunken)",
+  "frm": "Train",
+  "to": "Toy Room (Shrunken)"
+ },
+ {
+  "name": "Train -> Toy Room",
+  "frm": "Train",
+  "to": "Toy Room"
+ },
+ {
+  "name": "Piggy Room -> Carpet Hallway",
+  "frm": "Piggy Room",
+  "to": "Carpet Hallway"
+ },
+ {
+  "name": "Entrance -> Mirror Room",
+  "frm": "Entrance",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Toy Room Train Station -> Toy Room (Shrunken)",
+  "frm": "Toy Room Train Station",
+  "to": "Toy Room (Shrunken)"
+ },
+ {
+  "name": "Basement -> Dark Hallway",
+  "frm": "Basement",
+  "to": "Dark Hallway",
+  "doorway": {
+   "side": "area028:wp0x07",
+   "file": "files/mickey/area28/area028.rel",
+   "offset": 8953,
+   "arrival": [
+    28,
+    12,
+    7
+   ],
+   "reverse": "Dark Hallway -> Basement",
+   "lock_index": 24,
+   "lock_writes": [
+    [
+     9005,
+     384
+    ],
+    [
+     9013,
+     49152
+    ]
+   ],
+   "minigame": {
+    "entrance": "Basement -> Avoid the Flying Sword",
+    "exit": "Avoid the Flying Sword -> Dark Hallway",
+    "file": "files/mickey/area04/area004.rel",
+    "area_operand": 2786,
+    "arrival_operand": 2778
+   }
+  }
+ },
+ {
+  "name": "Basement -> Dark Room",
+  "frm": "Basement",
+  "to": "Dark Room",
+  "doorway": {
+   "side": "area028:wp0x03",
+   "file": "files/mickey/area28/area028.rel",
+   "offset": 8957,
+   "arrival": [
+    28,
+    2,
+    3
+   ],
+   "reverse": "Dark Room -> Basement"
+  }
+ },
+ {
+  "name": "Basement -> Avoid the Flying Sword",
+  "frm": "Basement",
+  "to": "Avoid the Flying Sword"
+ },
+ {
+  "name": "Storage Room -> Dark Hallway",
+  "frm": "Storage Room",
+  "to": "Dark Hallway",
+  "doorway": {
+   "side": "area029:wp0x00",
+   "file": "files/mickey/area29/area029.rel",
+   "offset": 24217,
+   "arrival": [
+    29,
+    1,
+    0
+   ],
+   "reverse": "Dark Hallway -> Storage Room",
+   "lock_index": 25,
+   "lock_writes": [
+    [
+     24341,
+     384
+    ],
+    [
+     24349,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Storage Room -> Cave",
+  "frm": "Storage Room",
+  "to": "Cave",
+  "doorway": {
+   "side": "area029:wp0x03",
+   "file": "files/mickey/area29/area029.rel",
+   "offset": 24229,
+   "arrival": [
+    29,
+    7,
+    3
+   ],
+   "reverse": "Cave -> Storage Room"
+  }
+ },
+ {
+  "name": "Cave -> Storage Room",
+  "frm": "Cave",
+  "to": "Storage Room",
+  "doorway": {
+   "side": "area031:wp0x01",
+   "file": "files/mickey/area31/area031.rel",
+   "offset": 7193,
+   "arrival": [
+    31,
+    0,
+    1
+   ],
+   "reverse": "Storage Room -> Cave"
+  }
+ },
+ {
+  "name": "Cave -> Gear Room",
+  "frm": "Cave",
+  "to": "Gear Room",
+  "doorway": {
+   "side": "area031:wp0x0C",
+   "file": "files/mickey/area31/area031.rel",
+   "offset": 7197,
+   "arrival": [
+    31,
+    13,
+    12
+   ],
+   "reverse": "Gear Room -> Cave"
+  }
+ },
+ {
+  "name": "Gear Room -> Cave",
+  "frm": "Gear Room",
+  "to": "Cave",
+  "doorway": {
+   "side": "area032:wp0x0B",
+   "file": "files/mickey/area32/area032.rel",
+   "offset": 8321,
+   "arrival": [
+    32,
+    12,
+    11
+   ],
+   "reverse": "Cave -> Gear Room"
+  }
+ },
+ {
+  "name": "Gear Room -> Bell Tower Roof",
+  "frm": "Gear Room",
+  "to": "Bell Tower Roof (Lower Ledge)",
+  "doorway": {
+   "side": "area032:wp0x03",
+   "file": "files/mickey/area32/area032.rel",
+   "offset": 8325,
+   "arrival": [
+    32,
+    10,
+    3
+   ],
+   "reverse": "Bell Tower Roof -> Gear Room"
+  }
+ },
+ {
+  "name": "Gear Room -> Mirror Room",
+  "frm": "Gear Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Bell Tower Roof -> Gear Room",
+  "frm": "Bell Tower Roof (Lower Ledge)",
+  "to": "Gear Room",
+  "doorway": {
+   "side": "area033:wp0x00",
+   "file": "files/mickey/area33/area033.rel",
+   "offset": 15317,
+   "arrival": [
+    33,
+    17,
+    0
+   ],
+   "reverse": "Gear Room -> Bell Tower Roof"
+  }
+ },
+ {
+  "name": "Bell Tower Roof -> Bell Tower Interior",
+  "frm": "Bell Tower Roof",
+  "to": "Bell Tower Interior",
+  "doorway": {
+   "side": "area033:wp0x06",
+   "file": "files/mickey/area33/area033.rel",
+   "offset": 15321,
+   "arrival": [
+    33,
+    7,
+    6
+   ],
+   "reverse": "Bell Tower Interior -> Bell Tower Roof"
+  }
+ },
+ {
+  "name": "Dark Hallway -> Storage Room",
+  "frm": "Dark Hallway",
+  "to": "Storage Room",
+  "doorway": {
+   "side": "area034:wp0x00",
+   "file": "files/mickey/area34/area034.rel",
+   "offset": 1225,
+   "arrival": [
+    34,
+    1,
+    0
+   ],
+   "reverse": "Storage Room -> Dark Hallway",
+   "lock_index": 25,
+   "lock_writes": [
+    [
+     1309,
+     384
+    ],
+    [
+     1317,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Dark Hallway -> Basement",
+  "frm": "Dark Hallway",
+  "to": "Basement",
+  "doorway": {
+   "side": "area034:wp0x05",
+   "file": "files/mickey/area34/area034.rel",
+   "offset": 1229,
+   "arrival": [
+    34,
+    6,
+    5
+   ],
+   "reverse": "Basement -> Dark Hallway",
+   "lock_index": 24,
+   "lock_writes": [
+    [
+     1284,
+     384
+    ],
+    [
+     1292,
+     49152
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Bell Tower Interior -> Dungeon",
+  "frm": "Bell Tower Interior",
+  "to": "Dungeon",
+  "doorway": {
+   "side": "area035:wp0x00",
+   "file": "files/mickey/area35/area035.rel",
+   "offset": 6645,
+   "arrival": [
+    35,
+    1,
+    0
+   ],
+   "reverse": "Dungeon -> Bell Tower Interior",
+   "lock_index": 27,
+   "lock_writes": [
+    [
+     6753,
+     384
+    ],
+    [
+     6761,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Bell Tower Interior -> Bell Tower Roof",
+  "frm": "Bell Tower Interior",
+  "to": "Bell Tower Roof",
+  "doorway": {
+   "side": "area035:wp0x0E",
+   "file": "files/mickey/area35/area035.rel",
+   "offset": 6649,
+   "arrival": [
+    35,
+    16,
+    14
+   ],
+   "reverse": "Bell Tower Roof -> Bell Tower Interior"
+  }
+ },
+ {
+  "name": "Dungeon -> Bell Tower Interior",
+  "frm": "Dungeon",
+  "to": "Bell Tower Interior",
+  "doorway": {
+   "side": "area036:wp0x00",
+   "file": "files/mickey/area36/area036.rel",
+   "offset": 1117,
+   "arrival": [
+    36,
+    1,
+    0
+   ],
+   "reverse": "Bell Tower Interior -> Dungeon",
+   "lock_index": 27,
+   "lock_writes": [
+    [
+     1173,
+     384
+    ],
+    [
+     1181,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Dungeon -> Old Hall",
+  "frm": "Dungeon",
+  "to": "Old Hall",
+  "doorway": {
+   "side": "area036:wp0x02",
+   "file": "files/mickey/area36/area036.rel",
+   "offset": 1121,
+   "arrival": [
+    36,
+    3,
+    2
+   ],
+   "reverse": "Old Hall -> Dungeon",
+   "lock_index": 28,
+   "lock_writes": [
+    [
+     1201,
+     384
+    ],
+    [
+     1209,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Dungeon -> Wine Cellar",
+  "frm": "Dungeon",
+  "to": "Wine Cellar",
+  "doorway": {
+   "side": "area036:wp0x05",
+   "file": "files/mickey/area36/area036.rel",
+   "offset": 1125,
+   "arrival": [
+    36,
+    4,
+    5
+   ],
+   "reverse": "Wine Cellar -> Dungeon"
+  }
+ },
+ {
+  "name": "Wine Cellar -> Dungeon",
+  "frm": "Wine Cellar",
+  "to": "Dungeon",
+  "doorway": {
+   "side": "area037:wp0x00",
+   "file": "files/mickey/area37/area037.rel",
+   "offset": 6745,
+   "arrival": [
+    37,
+    1,
+    0
+   ],
+   "reverse": "Dungeon -> Wine Cellar"
+  }
+ },
+ {
+  "name": "Wine Cellar -> Crash Barrels",
+  "frm": "Wine Cellar",
+  "to": "Crash Barrels"
+ },
+ {
+  "name": "Old Hall -> Fireplace Room",
+  "frm": "Old Hall",
+  "to": "Fireplace Room",
+  "doorway": {
+   "side": "area038:wp0x01",
+   "file": "files/mickey/area38/area038.rel",
+   "offset": 5017,
+   "arrival": [
+    38,
+    2,
+    1
+   ],
+   "reverse": "Fireplace Room -> Old Hall",
+   "lock_index": 29,
+   "lock_writes": [
+    [
+     5101,
+     384
+    ],
+    [
+     5109,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Old Hall -> Broken Room",
+  "frm": "Old Hall",
+  "to": "Broken Room",
+  "doorway": {
+   "side": "area038:wp0x04",
+   "file": "files/mickey/area38/area038.rel",
+   "offset": 5021,
+   "arrival": [
+    38,
+    5,
+    4
+   ],
+   "reverse": "Broken Room -> Old Hall",
+   "lock_index": 30,
+   "lock_writes": [
+    [
+     5129,
+     384
+    ],
+    [
+     5137,
+     49152
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Old Hall -> Dungeon",
+  "frm": "Old Hall",
+  "to": "Dungeon",
+  "doorway": {
+   "side": "area038:wp0x00",
+   "file": "files/mickey/area38/area038.rel",
+   "offset": 5025,
+   "arrival": [
+    38,
+    3,
+    0
+   ],
+   "reverse": "Dungeon -> Old Hall",
+   "lock_index": 28,
+   "lock_writes": [
+    [
+     5073,
+     384
+    ],
+    [
+     5081,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Broken Room -> Library",
+  "frm": "Broken Room",
+  "to": "Library",
+  "doorway": {
+   "side": "area039:wp0x05",
+   "file": "files/mickey/area39/area039.rel",
+   "offset": 7437,
+   "arrival": [
+    39,
+    8,
+    5
+   ],
+   "reverse": "Library -> Broken Room",
+   "lock_index": 31,
+   "lock_writes": [
+    [
+     10347,
+     384
+    ],
+    [
+     10355,
+     49152
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Broken Room -> Old Hall",
+  "frm": "Broken Room",
+  "to": "Old Hall",
+  "doorway": {
+   "side": "area039:wp0x00",
+   "file": "files/mickey/area39/area039.rel",
+   "offset": 7441,
+   "arrival": [
+    39,
+    7,
+    0
+   ],
+   "reverse": "Old Hall -> Broken Room",
+   "lock_index": 30,
+   "lock_writes": [
+    [
+     10317,
+     384
+    ],
+    [
+     10325,
+     49152
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Broken Room -> Spa Room",
+  "frm": "Broken Room",
+  "to": "Spa Room",
+  "doorway": {
+   "side": "area039:wp0x0B",
+   "file": "files/mickey/area39/area039.rel",
+   "offset": 7445,
+   "arrival": [
+    39,
+    10,
+    11
+   ],
+   "reverse": "Spa Room -> Broken Room",
+   "transitions": [
+    9917,
+    9941
+   ]
+  }
+ },
+ {
+  "name": "Fireplace Room -> Old Hall",
+  "frm": "Fireplace Room",
+  "to": "Old Hall",
+  "doorway": {
+   "side": "area040:wp0x00",
+   "file": "files/mickey/area40/area040.rel",
+   "offset": 2397,
+   "arrival": [
+    40,
+    1,
+    0
+   ],
+   "reverse": "Old Hall -> Fireplace Room",
+   "lock_index": 29,
+   "lock_writes": [
+    [
+     2465,
+     384
+    ],
+    [
+     2473,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Attic -> Rug Room",
+  "frm": "Attic",
+  "to": "Rug Room",
+  "doorway": {
+   "side": "area041:wp0x00",
+   "file": "files/mickey/area41/area041.rel",
+   "offset": 5157,
+   "arrival": [
+    41,
+    1,
+    0
+   ],
+   "reverse": "Rug Room -> Attic"
+  }
+ },
+ {
+  "name": "Music Room -> Rug Room",
+  "frm": "Music Room",
+  "to": "Rug Room",
+  "doorway": {
+   "side": "area042:wp0x00",
+   "file": "files/mickey/area42/area042.rel",
+   "offset": 11129,
+   "arrival": [
+    42,
+    3,
+    0
+   ],
+   "reverse": "Rug Room -> Music Room",
+   "lock_index": 22,
+   "lock_writes": [
+    [
+     11565,
+     384
+    ],
+    [
+     11573,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Music Room -> Library",
+  "frm": "Music Room",
+  "to": "Library",
+  "doorway": {
+   "side": "area042:wp0x01",
+   "file": "files/mickey/area42/area042.rel",
+   "offset": 11133,
+   "arrival": [
+    42,
+    2,
+    1
+   ],
+   "reverse": "Library -> Music Room",
+   "lock_index": 7,
+   "lock_writes": [
+    [
+     11537,
+     384
+    ],
+    [
+     11545,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Music Room -> Mickey the Guitar Master",
+  "frm": "Music Room",
+  "to": "Mickey the Guitar Master"
+ },
+ {
+  "name": "Spa Room -> Broken Room",
+  "frm": "Spa Room",
+  "to": "Broken Room",
+  "doorway": {
+   "side": "area045:wp0x00",
+   "file": "files/mickey/area45/area045.rel",
+   "offset": 34385,
+   "arrival": [
+    45,
+    1,
+    0
+   ],
+   "reverse": "Broken Room -> Spa Room"
+  }
+ },
+ {
+  "name": "Library -> Broken Room",
+  "frm": "Library",
+  "to": "Broken Room",
+  "doorway": {
+   "side": "area046:wp0x00",
+   "file": "files/mickey/area46/area046.rel",
+   "offset": 18545,
+   "arrival": [
+    46,
+    1,
+    0
+   ],
+   "reverse": "Broken Room -> Library",
+   "lock_index": 31,
+   "lock_writes": [
+    [
+     18911,
+     384
+    ],
+    [
+     18919,
+     49152
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Library -> Mirror Room",
+  "frm": "Library",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Library -> Music Room",
+  "frm": "Library",
+  "to": "Music Room",
+  "doorway": {
+   "side": "area046:wp0x04",
+   "file": "files/mickey/area46/area046.rel",
+   "offset": 18561,
+   "arrival": [
+    46,
+    5,
+    4
+   ],
+   "reverse": "Music Room -> Library",
+   "lock_index": 7,
+   "lock_writes": [
+    [
+     18883,
+     384
+    ],
+    [
+     18891,
+     32768
+    ]
+   ]
+  }
+ },
+ {
+  "name": "Mickey the Snowboarder (Entry) -> Mickey the Snowboarder (Course)",
+  "frm": "Mickey the Snowboarder (Entry)",
+  "to": "Mickey the Snowboarder (Course)"
+ },
+ {
+  "name": "Avoid the Flying Sword -> Dark Hallway",
+  "frm": "Avoid the Flying Sword",
+  "to": "Dark Hallway"
+ },
+ {
+  "name": "Mickey the Snowboarder (Course) -> Sword Hallway",
+  "frm": "Mickey the Snowboarder (Course)",
+  "to": "Sword Hallway"
+ },
+ {
+  "name": "Mickey the Flying Ace -> Toy Room",
+  "frm": "Mickey the Flying Ace",
+  "to": "Toy Room"
+ },
+ {
+  "name": "Dance with Mickey -> TV Room",
+  "frm": "Dance with Mickey",
+  "to": "TV Room"
+ },
+ {
+  "name": "Mickey the Guitar Master -> Music Room",
+  "frm": "Mickey the Guitar Master",
+  "to": "Music Room"
+ },
+ {
+  "name": "Crash Barrels -> Wine Cellar",
+  "frm": "Crash Barrels",
+  "to": "Wine Cellar"
+ },
+ {
+  "name": "Attic -> Music Room",
+  "frm": "Attic",
+  "to": "Music Room"
+ },
+ {
+  "name": "Gear Room -> Bell Tower Roof (Lever)",
+  "frm": "Gear Room",
+  "to": "Bell Tower Roof (Clock Roof)"
+ },
+ {
+  "name": "Bell Tower Roof (Clock Roof) -> Bell Tower Roof (Lower Ledge) (Drop)",
+  "frm": "Bell Tower Roof (Clock Roof)",
+  "to": "Bell Tower Roof (Lower Ledge)"
+ },
+ {
+  "name": "Bell Tower Roof (Clock Roof) -> Bell Tower Roof (Tightrope)",
+  "frm": "Bell Tower Roof (Clock Roof)",
+  "to": "Bell Tower Roof"
+ },
+ {
+  "name": "Hole Room -> Mirror Room (Return)",
+  "frm": "Hole Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Toy Room -> Mirror Room (Return)",
+  "frm": "Toy Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Train Station -> Mirror Room (Return)",
+  "frm": "Train Station",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Candle Room -> Mirror Room (Return)",
+  "frm": "Candle Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Kitchen -> Mirror Room (Return)",
+  "frm": "Kitchen",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Toy Room (Shrunken) -> Mirror Room (Return)",
+  "frm": "Toy Room (Shrunken)",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Train Station (Shrunken) -> Mirror Room (Return)",
+  "frm": "Train Station (Shrunken)",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Grand Hall -> Mirror Room (Return)",
+  "frm": "Grand Hall",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Alcove -> Mirror Room (Return)",
+  "frm": "Alcove",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Sword Hallway -> Mirror Room (Return)",
+  "frm": "Sword Hallway",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Wooden Hallway -> Mirror Room (Return)",
+  "frm": "Wooden Hallway",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "TV Room -> Mirror Room (Return)",
+  "frm": "TV Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Tea Room -> Mirror Room (Return)",
+  "frm": "Tea Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Dark Room -> Mirror Room (Return)",
+  "frm": "Dark Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Crazy Hallway -> Mirror Room (Return)",
+  "frm": "Crazy Hallway",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Bee Room -> Mirror Room (Return)",
+  "frm": "Bee Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Fish Room -> Mirror Room (Return)",
+  "frm": "Fish Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Wardrobe Room -> Mirror Room (Return)",
+  "frm": "Wardrobe Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Rug Room -> Mirror Room (Return)",
+  "frm": "Rug Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Footstool Room -> Mirror Room (Return)",
+  "frm": "Footstool Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Carpet Hallway -> Mirror Room (Return)",
+  "frm": "Carpet Hallway",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Piggy Room -> Mirror Room (Return)",
+  "frm": "Piggy Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Entrance -> Mirror Room (Return)",
+  "frm": "Entrance",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Toy Room Train Station -> Mirror Room (Return)",
+  "frm": "Toy Room Train Station",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Basement -> Mirror Room (Return)",
+  "frm": "Basement",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Storage Room -> Mirror Room (Return)",
+  "frm": "Storage Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Cave -> Mirror Room (Return)",
+  "frm": "Cave",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Gear Room -> Mirror Room (Return)",
+  "frm": "Gear Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Bell Tower Roof -> Mirror Room (Return)",
+  "frm": "Bell Tower Roof",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Dark Hallway -> Mirror Room (Return)",
+  "frm": "Dark Hallway",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Bell Tower Interior -> Mirror Room (Return)",
+  "frm": "Bell Tower Interior",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Dungeon -> Mirror Room (Return)",
+  "frm": "Dungeon",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Wine Cellar -> Mirror Room (Return)",
+  "frm": "Wine Cellar",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Old Hall -> Mirror Room (Return)",
+  "frm": "Old Hall",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Broken Room -> Mirror Room (Return)",
+  "frm": "Broken Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Fireplace Room -> Mirror Room (Return)",
+  "frm": "Fireplace Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Attic -> Mirror Room (Return)",
+  "frm": "Attic",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Music Room -> Mirror Room (Return)",
+  "frm": "Music Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Spa Room -> Mirror Room (Return)",
+  "frm": "Spa Room",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Library -> Mirror Room (Return)",
+  "frm": "Library",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Bell Tower Roof (Lower Ledge) -> Mirror Room (Return)",
+  "frm": "Bell Tower Roof (Lower Ledge)",
+  "to": "Mirror Room"
+ },
+ {
+  "name": "Bell Tower Roof (Clock Roof) -> Mirror Room (Return)",
+  "frm": "Bell Tower Roof (Clock Roof)",
+  "to": "Mirror Room"
+ }
+]
